@@ -10,7 +10,7 @@ do
 
 local entry1 = os.clock
 local handler2 = table.concat
-type Alias3 = (never) & (integer)
+type Alias3 = (never) & (number)
 export type Alias4 = typeof(entry1)
 
 local Widget5 = {}
@@ -55,7 +55,7 @@ tostring((function(buffer22) return buffer22 + 34 end > config8))
 while not (nil) do
 	for config23 = 1, true, 2 do
 		while not ({ ["bracket key"] = nil }) do
-			config8.field = ((4375i) :: typeof(entry1))
+			config8.field = ((4375) :: typeof(entry1))
 		end
 		for cache24 = 1, "escaped\ttab\nline\\slash" do
 			options12.nested.slot = Widget5.new<<Alias4>>((("skip\z   joined" <= service7)))
@@ -100,7 +100,7 @@ service21 = ((not (widget17 * nil)) .. { label = (#options34), })
 if select(nil) then
 	for total36, node37 in ipairs(cache10) do
 		type Alias38 = (thread) & (never)
-		if cache10["quoted key"] >= { [ "uni\u{48}escape" ] = "skip\z   joined"; label = 1706; [ 0b1000 ] = handler2; ["bracket key"] = 1_000_000i; } then break end
+		if cache10["quoted key"] >= { [ "uni\u{48}escape" ] = "skip\z   joined"; label = 1706; [ 0b1000 ] = handler2; ["bracket key"] = 1_000_000; } then break end
 		continue
 	end
 	for count39, count40 in ipairs(Widget5) do
@@ -109,14 +109,14 @@ if select(nil) then
 			local function cache43(total44: unknown): number
 				print [[long-bracket argument]]
 				local options45, node46 = select(`count {0x50DB}, next {cache24}`)
-				return ((nil > 'plain single') ~= (74.28 and 0xADD1i))
+				return ((nil > 'plain single') ~= (74.28 and 0xADD1))
 			end
 		end
 		do
 			while ("skip\z   joined") and ((1e3 < options9)) do
-				type Alias47 = (integer) & (unknown)
+				type Alias47 = (number) & (unknown)
 			end
-			if not ((#1_000_000i)) then
+			if not ((#1_000_000)) then
 				local handler48 = ((((nil) :: { label: Alias4, [string]: Alias3 }) - (true <= cache10)) ~= count40)
 				cache10.nested.slot = (((if (true % cache24) then "uni\u{48}escape" elseif (true % cache24) then true else Widget5) + { ["bracket key"] = 0xFECD, [ handler33 ] = count30 }))
 			else
@@ -131,7 +131,7 @@ local function buffer49(service50: Alias4, ...): number
 end
 local result51 = count40
 setmetatable(..., ...)
-count39, options34[ ('plain single' * queue35) ] = (1_000_000i == false), (false)
+count39, options34[ ('plain single' * queue35) ] = (1_000_000 == false), (false)
 state11, handler2.field = queue6[ ... ], entry20
 local cache52: { label: typeof(state11), [string]: any } = node37["quoted key"]
 if "hex\x41escape" then
@@ -154,10 +154,10 @@ function widget27.service60(node61)
 end
 if ((-count39)) and (("dec\101scape" <= node37)) then
 	repeat
-		tonumber(((62 > 6863i)))
+		tonumber(((62 > 6863)))
 		continue
 	until (true) and (('plain single' ^ nil))
-	cache53.nested.slot, handler41.nested.slot = [[long bracket string]], 1564i
+	cache53.nested.slot, handler41.nested.slot = [[long bracket string]], 1564
 elseif (if (nil) and (...) then count30 else 'plain single') > service50 then
 	widget17[ (nil >= handler16) ] = `count {node18}, next {true}`
 else
@@ -172,7 +172,7 @@ end
 local config68 = (((buffer32.field) :: any?) < result51[ Widget5["quoted key"] ])
 Widget5.nested.slot = ({ ["bracket key"] = { label = buffer58, label = buffer22, label = cache24, false } } .. (function(count69) return count69 + 4e5 end))
 local queue70: (any) & (never) = (not count55[ (false < cache43) ])
-local entry71 = (not (if (false < true) then [==[leveled ]] bracket]==] elseif (false < true) then "plain double" else 1_000_000i))
+local entry71 = (not (if (false < true) then [==[leveled ]] bracket]==] elseif (false < true) then "plain double" else 1_000_000))
 ipairs { tag = "item", function(...) return select("#", ...), select<<true>>(4433) end }
 widget27.service60 [[long-bracket argument]]
 do
@@ -188,7 +188,7 @@ local function entry73<T>(payload74: Alias4, ...): number
 		local result77 = (-((true and total36) < (payload54)))
 		return {}
 	end
-	return ({ label = 0b11011i, ["bracket key"] = "skip\z   joined", "plain double" } <= `count {count69}, next {false}`)
+	return ({ label = 0b11011, ["bracket key"] = "skip\z   joined", "plain double" } <= `count {count69}, next {false}`)
 end
 local entry78 = (#"hex\x41escape");
 while not ("hex\x41escape") do
@@ -212,7 +212,7 @@ const node87 = { [ [[long bracket string]] ] = function(result88) return result8
 node18.nested.slot, state81.field = function(config89) return config89 + (service50) end, { ["bracket key"] = state81, service86, ["bracket key"] = service60, ["bracket key"] = 23.5e-1 }
 do
 	local function cache90(service91: { label: thread, [string]: Alias38 }, ...): number
-		local index92 = type((function(entry93) return entry93 + entry78:clone(false) end < { 30.5e-2, [ false ] = 1_000_000i }), entry66:clone((0x8ACE)))
+		local index92 = type((function(entry93) return entry93 + entry78:clone(false) end < { 30.5e-2, [ false ] = 1_000_000 }), entry66:clone((0x8ACE)))
 		return { label = (node87 * nil), ["bracket key"] = "escaped\ttab\nline\\slash", label = (result31 % true), ["bracket key"] = function(...) return select("#", ...), ... end, };
 	end
 	local entry95 = math.floor<<unknown>>(count30)

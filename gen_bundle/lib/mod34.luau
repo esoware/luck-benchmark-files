@@ -34,7 +34,7 @@ end
 local result11, count12 = print({ ["bracket key"] = 99.21 })
 type Alias13<T> = { value: T, tail: (any) -> unknown? }
 math.floor({ label = Widget5[ (options2) ], [ false ] = (#false), }, service7.nested.deep.chain)
-Widget5:resize(((0b10111011i % 24.5e-1) ^ config6[ ... ]))
+Widget5:resize(((0b10111011 % 24.5e-1) ^ config6[ ... ]))
 if (options2.field) and ({ nil }) then
 	local config14, count15 = select(false)
 	repeat
@@ -71,7 +71,7 @@ else
 end
 print((((not count12)) :: never), result25)
 for widget28, index29 in ipairs(cache10) do
-	service7:update({ [ 672i ] = math.floor "inline", })
+	service7:update({ [ 672 ] = math.floor "inline", })
 end
 local widget30 = count15
 count15:render((total21:clone<<Alias4<string>>>() and { [ false ] = count12, 3.5e-1 }))
@@ -97,13 +97,13 @@ for index41, cache42 in pairs(widget30) do
 		repeat
 			config6[ math.floor(true) ], config9 = cache40.field, { [ "escaped\ttab\nline\\slash" ] = index41, label = "plain double" }
 			local entry43 = index16[ index29.field ];
-			if not (function(payload44) return payload44 + (1_000_000i + 0b11000000) end) then break end
+			if not (function(payload44) return payload44 + (1_000_000 + 0b11000000) end) then break end
 		until ((true == nil)) and (handler33(4591))
 	until ({ payload27, [ [==[leveled ]] bracket]==] ] = handler33, }) and (...)
 	continue
 end
 local function total45(payload46: (nil) & (boolean), ...): number
-	local total47 = (((1_000_000i) >= (total38 / "dec\101scape")) ~= (queue8 // (false >= "skip\z   joined")));
+	local total47 = (((1_000_000) >= (total38 / "dec\101scape")) ~= (queue8 // (false >= "skip\z   joined")));
 	payload27.field = result17
 	return nil
 end
@@ -131,11 +131,11 @@ do
 			end
 			continue
 		end
-		local index55 = { [ 1_000_000 ] = function(...) return select("#", ...), (4445 or "uni\u{48}escape") end, [ "skip\z   joined" ] = function(...) return select("#", ...), handler33 end, ('plain single' ^ (result48 % 1_000_000i)) }
+		local index55 = { [ 1_000_000 ] = function(...) return select("#", ...), (4445 or "uni\u{48}escape") end, [ "skip\z   joined" ] = function(...) return select("#", ...), handler33 end, ('plain single' ^ (result48 % 1_000_000)) }
 		continue
 	end
 end
-payload44.field, payload27[ (if not ((-cache42)) then 'plain single' else "dec\101scape") ] = (false % cache10), { [ 85.41 ] = 1_000_000i; label = result25; [ true ] = nil; [ 90.72 ] = 1_000_000; }
+payload44.field, payload27[ (if not ((-cache42)) then 'plain single' else "dec\101scape") ] = (false % cache10), { [ 85.41 ] = 1_000_000; label = result25; [ true ] = nil; [ 90.72 ] = 1_000_000; }
 if (-queue51) then
 	for entry58 = 1, 8e4 do
 		local node59, index60 = tonumber({ [ handler33 ] = count32, ["bracket key"] = true, ["bracket key"] = handler33 })
@@ -144,7 +144,7 @@ if (-queue51) then
 		local count61 = ({} == [==[leveled ]] bracket]==])
 	until (...) and (`count {1_000_000}, next {total26}`)
 end
-count61[ function(service62) return service62 + math.max { nil } end ] = ((`count {Widget5}, next {options2}`) - (-(1_000_000i * 'plain single')))
+count61[ function(service62) return service62 + math.max { nil } end ] = ((`count {Widget5}, next {options2}`) - (-(1_000_000 * 'plain single')))
 entry43.field = (((1_000_000 + 0b11111011) / "uni\u{48}escape") / entry58[ service62.field ])
 local widget63 = (function(...) return select("#", ...), ("skip\z   joined" // "dec\101scape") end <= nil);
 payload27.nested.slot = (((count15)) :: typeof(config6))
@@ -153,7 +153,7 @@ if (7287) and (pcall(nil)) then
 	do
 		while not ((-"hex\x41escape")) do
 			function total26.handler65(options66)
-				local payload67 = (false > (if (math.floor { nil }) and ((0b11101011i)) then count12 elseif (math.floor { nil }) and ((0b11101011i)) then 'plain single' else index41))
+				local payload67 = (false > (if (math.floor { nil }) and ((0b11101011)) then count12 elseif (math.floor { nil }) and ((0b11101011)) then 'plain single' else index41))
 				type "literal argument"
 				return (math.floor "inline" or index29:clone<<Alias23>>()), count32
 			end
@@ -163,7 +163,7 @@ if (7287) and (pcall(nil)) then
 elseif (-[[long bracket string]]) then
 	if (true * false) then
 		local entry69 = setmetatable "inline"
-	elseif function(state70) return state70 + { label = "plain double"; [ nil ] = total26; false; 1_000_000i } end then
+	elseif function(state70) return state70 + { label = "plain double"; [ nil ] = total26; false; 1_000_000 } end then
 		const entry71 = function(node72) return node72 + (false <= 0xBA49) end
 	end
 end
@@ -210,7 +210,7 @@ for widget84, state85 in pairs(index60) do
 		continue
 	end
 end
-local config91 = table.insert(function(options92) return options92 + ("plain double") end, 8322i)
+local config91 = table.insert(function(options92) return options92 + ("plain double") end, 8322)
 local widget93 = (#config9);
 widget84:resize(...)
 print(queue78)
@@ -255,7 +255,7 @@ local function entry106<T>(widget107: ("singleton") & (number)): number
 			end
 		until (([[long bracket string]])) and ((false))
 		for node115 = 1, total26.state36(true), 2 do
-			local config116: ((Alias22) | ("singleton")) | (Alias20) = `count {0x36FDi}, next {service111}`
+			local config116: ((Alias22) | ("singleton")) | (Alias20) = `count {0x36FD}, next {service111}`
 			local config117, cache118 = string.format((nil == nil))
 			continue
 		end

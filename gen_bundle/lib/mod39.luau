@@ -9,7 +9,7 @@ do
 local handler1 = math.floor
 local handler2 = string.rep
 type Alias3 = typeof(handler1)
-type Alias4 = integer
+type Alias4 = number
 
 local Widget5 = {}
 Widget5.__index = Widget5
@@ -25,14 +25,14 @@ end
 function Widget5:resize(handler8)
 	self.size = self.size + handler8 -- trailing comment
 	cache6[ (0b1101010) ], cache6[ (-[==[leveled ]] bracket]==]) ] = (#0b1110011), "uni\u{48}escape"
-	while (true) and ((0xCCB4i)) do
+	while (true) and ((0xCCB4)) do
 		local options9 = (#function(handler10) return handler10 + (-nil) end)
 	end
 	return self.size, nil
 end
 
 local widget11 = false
-local total12, service13 = tostring((if not (function(...) return select("#", ...), ... end) then nil else 0b1011001i))
+local total12, service13 = tostring((if not (function(...) return select("#", ...), ... end) then nil else 0b1011001))
 local function service15(entry16: thread): number
 	repeat
 		local options17 = nil
@@ -52,7 +52,7 @@ local function service15(entry16: thread): number
 		if (handler10 ^ 40.5e-1) >= { ["bracket key"] = true } then
 			if (nil) and (true) then
 				type [[long-bracket argument]]
-			elseif cache6 == (#1_000_000i) then
+			elseif cache6 == (#1_000_000) then
 				math.max { tag = "item", (options17) }
 			end
 		else
@@ -65,7 +65,7 @@ local function service15(entry16: thread): number
 end
 local index26 = (nil >= false);
 const widget27 = math.floor "inline";
-print { tag = "item", (1_000_000i) }
+print { tag = "item", (1_000_000) }
 local result28: number? = { ["bracket key"] = function(...) return select("#", ...), nil end, label = false }
 local result30: { label: Alias3, [string]: Alias3 } = function(result31) return result31 + (#widget27) end
 local config32, queue33 = type(('plain single' ~= "dec\101scape"))
@@ -76,7 +76,7 @@ else
 	local node34, service35 = service15(service13["quoted key"])
 end
 buffer29.nested.slot = (not result30)
-local total36 = ("skip\z   joined" or (string.format(false, 0b100100i) ^ (-[[long bracket string]])))
+local total36 = ("skip\z   joined" or (string.format(false, 0b100100) ^ (-[[long bracket string]])))
 export type Alias37<T> = { value: T, tail: (nil) | ((Alias3, ...Alias3) -> (boolean)) }
 local cache38 = (total12:clone<<Alias3>>() .. (Widget5[ function(count39) return count39 + (0x6526 / widget11) end ] < {}))
 local cache40 = ({ [ queue33 ] = ([==[leveled ]] bracket]==] > 0b1111010), ["bracket key"] = (-1_000_000) } > (-state21))
@@ -96,14 +96,14 @@ else
 end
 const service49 = function(...) return select("#", ...), handler1["quoted key"] end
 local config51: unknown? = ((("dec\101scape" and true) or [[long bracket string]]))
-local buffer52 = (not ((1_000_000i and 1_000_000i) <= (handler1 // 1_000_000)));
+local buffer52 = (not ((1_000_000 and 1_000_000) <= (handler1 // 1_000_000)));
 index18 "literal argument"
 for result53, options54 in pairs(result28) do
 	handler1 = (function(queue55) return queue55 + pcall { options9 } end < function(node56) return node56 + queue48 end)
 	local index57: thread = false
 	continue
 end
-local result58: integer = ((pcall<<string>>("escaped\ttab\nline\\slash")) // "plain double")
+local result58: number = ((pcall<<string>>("escaped\ttab\nline\\slash")) // "plain double")
 print [[long-bracket argument]]
 if (tonumber "inline") and (2e5) then
 	local index59: never = buffer52:clone((math.floor { index25 } + ('plain single' // node34)))
@@ -155,8 +155,8 @@ do
 		local node80, buffer81 = Widget5.new(buffer23:clone<<"singleton">>())
 	else
 		local function handler82(state83: typeof(handler76)): number
-			local entry84: number = { [ "dec\101scape" ] = (0b10110010), ["bracket key"] = (#(true)), ["bracket key"] = (index25 // queue33), ipairs<<true>>((service35 * 9333i)) }
-			return function(entry85) return entry85 + math.floor(0x97Ai, index71) end
+			local entry84: number = { [ "dec\101scape" ] = (0b10110010), ["bracket key"] = (#(true)), ["bracket key"] = (index25 // queue33), ipairs<<true>>((service35 * 9333)) }
+			return function(entry85) return entry85 + math.floor(0x97A, index71) end
 		end
 	end
 	result53.field //= (not (#true))
@@ -185,7 +185,7 @@ const buffer96 = true
 repeat
 	local options97: typeof(config51) = 79;
 	continue
-until (('plain single' and handler10)) and ((not 6420i))
+until (('plain single' and handler10)) and ((not 6420))
 local state98: typeof(service87) = (if (0x5756) and (false) then 7941 elseif (0x5756) and (false) then true else [[long bracket string]])
 result30.field = widget46:clone<<never>>()
 handler43.nested.slot = function(...) return select("#", ...), pcall<<Alias3>>(options97) end
@@ -193,11 +193,11 @@ while (handler82 "inline") and ((index26 ~= 0xF1ED)) do
 	result64, buffer81.nested.slot = config32:clone<<unknown>>(), ...
 	cache69 = 4642
 end
-while not ((if 1_000_000i then 1_000_000i else payload95)) do
+while not ((if 1_000_000 then 1_000_000 else payload95)) do
 	handler43:resize(...)
 	for queue100 = 1, function(...) return select("#", ...), ((nil) :: Alias91<string>) end do
 		while not (math.floor<<"singleton">>(47)) do
-			local result102 = (service15({ [ node80 ] = 0b10000011i, }, (("hex\x41escape") :: boolean?)) - handler82 "inline")
+			local result102 = (service15({ [ node80 ] = 0b10000011, }, (("hex\x41escape") :: boolean?)) - handler82 "inline")
 			if function(widget103) return widget103 + false end then break end
 		end
 	end
@@ -213,7 +213,7 @@ if buffer65["quoted key"] >= index18 { nil } then
 	type Alias109 = typeof(total36)
 	if not (("plain double" // [[long bracket string]])) then
 		for result110, buffer111 in ipairs(payload74) do
-			cache69(0x4C07i)
+			cache69(0x4C07)
 			continue
 		end
 		for options112 = 1, false, 2 do
@@ -228,7 +228,7 @@ if buffer65["quoted key"] >= index18 { nil } then
 			local options113: { { label: number, [string]: any } } = nil
 		until "dec\101scape" >= queue33["quoted key"]
 	end
-elseif not ((not 0b1001000i)) then
+elseif not ((not 0b1001000)) then
 	local function buffer114(entry115: Alias3): number
 		string.format(queue101)
 		return { ["bracket key"] = (false .. handler88) }

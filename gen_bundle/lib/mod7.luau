@@ -32,7 +32,7 @@ function Widget5:render(queue9)
 			if not (handler10) then
 				while not ((1347 or 10.48)) do
 					state8.field //= (not (queue9 or "hex\x41escape"))
-					payload6:render((function(count11) return count11 + (1_000_000i * count11) end))
+					payload6:render((function(count11) return count11 + (1_000_000 * count11) end))
 				end
 				ipairs [[long-bracket argument]]
 			end
@@ -46,9 +46,9 @@ if not (...) then
 	for queue14, node15 in ipairs(handler10) do
 		if Widget5.field then
 			local options16 = ...
-			local total17 = (true ^ ((4224i < "dec\101scape") % (0b1000011 > 8e0)));
+			local total17 = (true ^ ((4224 < "dec\101scape") % (0b1000011 > 8e0)));
 		else
-			local widget18: { Alias4 } = (if function(options19) return options19 + queue9.field end <= { true, ["bracket key"] = 1_000_000i } then { [ queue9 ] = false, ["bracket key"] = (options7 == nil), ["bracket key"] = (false % nil) } else state8:clone(service1.nested.deep.chain))
+			local widget18: { Alias4 } = (if function(options19) return options19 + queue9.field end <= { true, ["bracket key"] = 1_000_000 } then { [ queue9 ] = false, ["bracket key"] = (options7 == nil), ["bracket key"] = (false % nil) } else state8:clone(service1.nested.deep.chain))
 		end
 	end
 elseif "skip\z   joined" then
@@ -89,7 +89,7 @@ end
 local function total40<T>(service41: Alias3<string>): number
 	local entry42 = ((table.insert([[long bracket string]])));
 	local state43 = (-(function(config44) return config44 + (payload38 >= queue23) end))
-	return (0xE17Ci - tonumber("escaped\ttab\nline\\slash", state43))
+	return (0xE17C - tonumber("escaped\ttab\nline\\slash", state43))
 end
 local index45 = (((#index31) == ([[long bracket string]] or 0b10111011)) <= (2544 >= (if (index45) and (result2:clone<<Alias4>>()) then true else true)))
 local buffer46, entry47 = Widget5.new({ index45 })
@@ -110,11 +110,11 @@ local function queue52<T>(config53: number): number
 	return ((-nil) or { label = service41, }), (config22)
 end
 local buffer56 = options7.nested.deep.chain
-local payload57: (any) & (integer) = (function(options58) return options58 + "dec\101scape" end)
-local queue59: integer = (not ((5e4 < "hex\x41escape") ^ (-false)));
+local payload57: (any) & (number) = (function(options58) return options58 + "dec\101scape" end)
+local queue59: number = (not ((5e4 < "hex\x41escape") ^ (-false)));
 while not ((-false)) do
-	local function options60(handler61: integer, ...): number
-		local total62 = 1_000_000i
+	local function options60(handler61: number, ...): number
+		local total62 = 1_000_000
 		return (function(cache63) return cache63 + queue14 end % false), function(total64) return total64 + tostring "inline" end
 	end
 	local function node65(service66: Alias3<string>): number
@@ -155,7 +155,7 @@ for entry81 = 1, (not nil), 2 do
 		elseif (#false) then
 			local entry88: thread = ((entry88.field + (false or 28)))
 		end
-		if not ((7422i)) then
+		if not ((7422)) then
 			local node89: (typeof(count55)) | (thread) = { label = true, ["bracket key"] = payload6.nested.deep.chain, }
 			function queue20:buffer90(index91)
 				print(options54[ "skip\z   joined" ])
@@ -179,7 +179,7 @@ if not (...) then
 end
 print "literal argument"
 ipairs(options54)
-if ({ options71, label = node15, 1_000_000i }) and (function(count101) return count101 + ("plain double" % 6809) end) then
+if ({ options71, label = node15, 1_000_000 }) and (function(count101) return count101 + ("plain double" % 6809) end) then
 	queue52({ label = "dec\101scape", ["bracket key"] = (queue23 < service36), label = function(...) return select("#", ...), setmetatable { result48 } end, { ["bracket key"] = [[long bracket string]], label = true, ["bracket key"] = "escaped\ttab\nline\\slash", [ "dec\101scape" ] = count76 }, }, ((nil) :: (boolean) | (never)))
 	local cache103 = ...
 elseif result39 then
@@ -193,7 +193,7 @@ if not (setmetatable(count55, true)) then
 	local function cache107(entry108: { boolean }): number
 		while [[long bracket string]] do
 			do
-				table.insert { tag = "item", (not 1_000_000i) }
+				table.insert { tag = "item", (not 1_000_000) }
 			end
 		end
 		return function(index109) return index109 + (#true) end, (false)
@@ -201,11 +201,11 @@ if not (setmetatable(count55, true)) then
 else
 	handler61.nested.slot = ((false >= (-true)) and 0xDB06)
 end
-state13:resize({ [ 0x6E08 ] = function(widget110) return widget110 + (-result48) end, label = { ["bracket key"] = [==[leveled ]] bracket]==], label = true, 0b10011111i, [ nil ] = 'plain single' }, label = (if ... >= true then "hex\x41escape" elseif ... >= true then nil else config21) })
+state13:resize({ [ 0x6E08 ] = function(widget110) return widget110 + (-result48) end, label = { ["bracket key"] = [==[leveled ]] bracket]==], label = true, 0b10011111, [ nil ] = 'plain single' }, label = (if ... >= true then "hex\x41escape" elseif ... >= true then nil else config21) })
 local buffer111, options112 = cache107("plain double")
 count24[ (("skip\z   joined") :: (boolean) & (Alias4)) ] //= payload78
-total98, node37.nested.slot = (1_000_000i > handler35), 52.80
-if ({ [ 1_000_000i ] = 1_000_000 }) and (options26.field) then
+total98, node37.nested.slot = (1_000_000 > handler35), 52.80
+if ({ [ 1_000_000 ] = 1_000_000 }) and (options26.field) then
 	state13.nested.slot, state8.field = ([==[leveled ]] bracket]==] / payload84), (true ^ 0x5176)
 	options19[ type(nil) ] = (not ...)
 end
@@ -218,14 +218,14 @@ for config115, total116 in next, count11, nil do
 		index109:render(false)
 	end
 end
-if (count55) and ((0xD627i * service1)) then
+if (count55) and ((0xD627 * service1)) then
 	if (("hex\x41escape")) and ((if { ["bracket key"] = node89, [ 'plain single' ] = [==[leveled ]] bracket]==], "escaped\ttab\nline\\slash", ["bracket key"] = false } then true else [==[leveled ]] bracket]==])) then
 		entry108:insert((nil))
 	else
 		select(node15.nested.deep.chain, `count {0x8E86}, next {false}`)
 	end
 	function service41.total117(config118)
-		local count119: integer? = { (result48 < config115), ["bracket key"] = count76:clone(widget96.nested.deep.chain), }
+		local count119: number? = { (result48 < config115), ["bracket key"] = count76:clone(widget96.nested.deep.chain), }
 		return (("skip\z   joined" == [[long bracket string]]))
 	end
 end

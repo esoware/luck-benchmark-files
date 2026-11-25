@@ -49,12 +49,12 @@ payload6[ handler16.field ], service9.nested.slot = service9[ (5611 ~= "escaped\
 for cache18 = 1, (true ~= handler13) do
 	local function queue19(widget20: () -> (), ...): number
 		if ... > (#queue19) then
-			local function node21(total22: integer): number
+			local function node21(total22: number): number
 				local entry23, entry24 = math.floor((nil - true))
-				local handler25 = setmetatable<<integer>>(("dec\101scape" % (false)))
+				local handler25 = setmetatable<<number>>(("dec\101scape" % (false)))
 				return ipairs(0xF6CD)
 			end
-			pcall { tag = "item", 0xF397i }
+			pcall { tag = "item", 0xF397 }
 		end
 		return type<<Alias4>>((not false)), `count {true}, next {handler16}`
 	end
@@ -67,7 +67,7 @@ function entry24:count26(total27)
 end
 while not ((if (#payload6) then payload6 else true)) do
 	do
-		const cache31 = ((if nil then { [ 4285 ] = false, [ total27 ] = 1e2 } else handler13.nested.deep.chain) + (((6973i <= 0b111110i)) :: "singleton"))
+		const cache31 = ((if nil then { [ 4285 ] = false, [ total27 ] = 1e2 } else handler13.nested.deep.chain) + (((6973 <= 0b111110)) :: "singleton"))
 		type Alias32 = (unknown) & (number)
 	end
 	function handler2:queue33(payload34)
@@ -79,15 +79,15 @@ while not ((if (#payload6) then payload6 else true)) do
 end
 count26:insert(function(...) return select("#", ...), false end)
 if ((#'plain single')) and ({ ["bracket key"] = nil, [ count26 ] = false, service9, label = true, }) then
-	widget10.field = (3868i)
-	type Alias37 = (Alias4) & (integer)
+	widget10.field = (3868)
+	type Alias37 = (Alias4) & (number)
 else
 	local result38 = string.format<<true>>(false)
 end
 local buffer39 = 0b10000110
 export type Alias40 = "singleton"
 state12:insert({ ["bracket key"] = (0xBCF == total22) })
-while count26:clone<<integer>>() >= [==[leveled ]] bracket]==] do
+while count26:clone<<number>>() >= [==[leveled ]] bracket]==] do
 	local result41: typeof(cache31) = 34.59
 	if widget10["quoted key"] <= (false) then
 		local handler42: { label: { true }, [string]: unknown } = "plain double"
@@ -95,12 +95,12 @@ while count26:clone<<integer>>() >= [==[leveled ]] bracket]==] do
 	if not (config29.field) then break end
 end
 if (-false) then
-	while { ["bracket key"] = false, [ total22 ] = 1_000_000i, ["bracket key"] = 1_000_000, ["bracket key"] = config29, } >= (#'plain single') do
-		count14(nil, 1_000_000i)
+	while { ["bracket key"] = false, [ total22 ] = 1_000_000, ["bracket key"] = 1_000_000, ["bracket key"] = config29, } >= (#'plain single') do
+		count14(nil, 1_000_000)
 		ipairs(tostring "inline", handler2)
 	end
 	state8[ ... ], handler42.field = (0b11110010 / node21), nil
-elseif Widget5.new { 1541i } <= function(options43) return options43 + false end then
+elseif Widget5.new { 1541 } <= function(options43) return options43 + false end then
 	cache18, cache7.field = true, ("hex\x41escape" > false)
 else
 	string.format [[long-bracket argument]]
@@ -154,13 +154,13 @@ function buffer1:config59(result60)
 end
 buffer39:insert(((84.5 / entry23)))
 local function result61(config62: boolean?): number
-	local options63 = 3874i
-	return ((not false)), (0b11101110i // false)
+	local options63 = 3874
+	return ((not false)), (0b11101110 // false)
 end
 total27.field -= tonumber { (not Widget5) }
 print(nil, (nil * count58))
 local function buffer64(count65: (Alias40) & (Alias37)): number
-	if (#buffer64) <= (1_000_000i) then
+	if (#buffer64) <= (1_000_000) then
 		service9 //= (`count {count30}, next {nil}` + queue19["quoted key"])
 		entry36[ (false) ], result61[ (false - "uni\u{48}escape") ] = math.max("hex\x41escape"), handler16
 	elseif (-0x29F6) then
@@ -175,7 +175,7 @@ repeat
 	continue
 until entry35 <= table.insert<<thread>>(11.5e-1)
 local index68: (typeof(total22)) | (typeof(index53)) = true
-local state69: (string) & (string) = ((index68 - ("dec\101scape" >= 0xA5D8i)))
+local state69: (string) & (string) = ((index68 - ("dec\101scape" >= 0xA5D8)))
 local config70 = (if not ((-handler13)) then 0x9ABE elseif not ((-handler13)) then false else buffer39)
 if (nil) and (state8:clone<<any>>()) then
 	const result71 = nil;
@@ -193,10 +193,10 @@ repeat
 		end
 		buffer39[ (#result44) ] ..= 1_000_000
 	end
-until not ((false >= 1_000_000i))
+until not ((false >= 1_000_000))
 result50 //= 39.5e-1
 export type Alias82 = thread
-local count83: integer = (function(widget84) return widget84 + function(entry85) return entry85 + "plain double" end end > [==[leveled ]] bracket]==])
+local count83: number = (function(widget84) return widget84 + function(entry85) return entry85 + "plain double" end end > [==[leveled ]] bracket]==])
 local result86: (nil) & (Alias4) = queue33:clone<<string>>()
 cache48 = nil
 local payload87, index88 = result61(...)
@@ -209,7 +209,7 @@ for state91, options92 in next, result41, nil do
 	const index94 = result50
 end
 table.insert { tag = "item", math.floor([[long bracket string]], true) }
-local count95 = (if not (true) then options43 elseif not (true) then 0x35F6i else false);
+local count95 = (if not (true) then options43 elseif not (true) then 0x35F6 else false);
 for node96 = 1, handler49:clone(options92) do
 	local index97, buffer98 = table.insert((buffer39 == nil))
 	count14 //= ((-count58) + ...)

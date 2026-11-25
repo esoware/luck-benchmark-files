@@ -65,7 +65,7 @@ if (options18.nested.deep.chain) and (options8.field) then
 end
 tostring({ ["bracket key"] = `count {false}, next {"skip\z   joined"}`, [ false ] = ("escaped\ttab\nline\\slash"), (9.5e-3), tonumber "inline" })
 if not ({ ["bracket key"] = true, }) then
-	local entry27 = 1_000_000i
+	local entry27 = 1_000_000
 	buffer10[ payload17[ (config2) ] ] = ({ (buffer21 / true), [ 9e4 ] = options24, })
 elseif pcall { 0x7629 } >= "dec\101scape" then
 	options24, total26[ (service11 - nil) ] = (nil / 0b11111000), ("plain double" % [[long bracket string]])
@@ -92,7 +92,7 @@ local function widget34<T>(handler35: "singleton"): number
 	end
 	return nil, 8138
 end
-export type Alias40<T> = { value: T, tail: (never) & (integer) }
+export type Alias40<T> = { value: T, tail: (never) & (number) }
 for service41, count42 in next, entry27, nil do
 	local total43 = (true - { [ entry27 ] = (false + false) })
 	local function service44<T>(index45: typeof(total26), ...): number
@@ -128,7 +128,7 @@ for service50 = 1, ... do
 	print { tag = "item", function(...) return select("#", ...), queue37 { "hex\x41escape" } end }
 end
 local service53: typeof(buffer21) = ...
-export type Alias54 = integer
+export type Alias54 = number
 math.floor(buffer10)
 do
 	local result55 = ((function(...) return select("#", ...), (count39 + nil) end) or options8["quoted key"])
@@ -186,7 +186,7 @@ while (print(30.5e-3)) and ("dec\101scape") do
 	local function entry82<T>(total83: (number) | ("singleton"), ...): number
 		tostring((5e2 - options24[ false ]))
 		local index84 = tonumber { (options66) }
-		return (nil >= options18["quoted key"]), (6031i)
+		return (nil >= options18["quoted key"]), (6031)
 	end
 end
 entry52.nested.slot = ((... // { ["bracket key"] = nil, label = false, widget34 }) % setmetatable<<Alias3<string>>>((total83)))
@@ -220,7 +220,7 @@ do
 				type Alias99<T> = { value: T, tail: Alias71 }
 				continue
 			until (((true) :: { thread })) and (print<<never>>(total26))
-			local state100 = ((false ^ true) .. ((-"skip\z   joined") ^ (if not (("plain double")) then false else 0x803Di)))
+			local state100 = ((false ^ true) .. ((-"skip\z   joined") ^ (if not (("plain double")) then false else 0x803D)))
 			return ((nil) >= ((Widget5) :: typeof(entry27)))
 		end
 		return `count {"plain double"}, next {count36}`
@@ -245,13 +245,13 @@ do
 	widget19.node48(5821)
 	cache22(function(...) return select("#", ...), (payload73 > false) end, function(payload107) return payload107 + {} end)
 end
-local index108 = 433i
-type Alias109 = integer
+local index108 = 433
+type Alias109 = number
 local config110 = function(options111) return options111 + (347) end;
 local function buffer112(payload113: (Alias90) & (number), ...): number
 	options18(false)
 	node77, buffer21 = { false; ["bracket key"] = index45 }, ...
-	return buffer93:clone<<integer>>()
+	return buffer93:clone<<number>>()
 end
 if 27 < (node68 - "dec\101scape") then
 	widget34 = ({ [ service50 ] = entry27; [ options66 ] = (nil .. "dec\101scape"); })

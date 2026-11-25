@@ -21,7 +21,7 @@ function Widget5.new(buffer6: number?, ...)
 	self.size = buffer6 or 0
 	self.slots = { ... }
 	if not ((3.14 ^ "plain double")) then
-		local handler7 = { ["bracket key"] = (function(total8) return total8 + print(false, 7773) end > { [ 1_000_000i ] = nil, [ handler7 ] = 'plain single', label = true }), ["bracket key"] = (if ... then (payload1 < [[long bracket string]]) else (true)), (handler7 > (handler7 == 1_000_000i)) }
+		local handler7 = { ["bracket key"] = (function(total8) return total8 + print(false, 7773) end > { [ 1_000_000 ] = nil, [ handler7 ] = 'plain single', label = true }), ["bracket key"] = (if ... then (payload1 < [[long bracket string]]) else (true)), (handler7 > (handler7 == 1_000_000)) }
 	else
 		type Alias9 = boolean
 	end
@@ -35,7 +35,7 @@ function Widget5:render(service10)
 		if ("dec\101scape") and (total8[ false ]) then
 			local service14: ("singleton") | ((Alias9) -> Alias3<string>) = true
 			const options15 = (options15[ false ]);
-		elseif 5947i >= "skip\z   joined" then
+		elseif 5947 >= "skip\z   joined" then
 			local buffer16, result17 = print((true + "dec\101scape"))
 		else
 			payload1[ pcall { 0b10011111 } ] = (function(...) return select("#", ...), (true) end - ((not nil)))
@@ -52,10 +52,10 @@ function Widget5:render(service10)
 	return self.size, ((nil) and { [ nil ] = 'plain single'; label = [[long bracket string]]; [ cache18 ] = "hex\x41escape" })
 end
 
-local config19: integer? = (#(if not (...) then true elseif not (...) then "escaped\ttab\nline\\slash" else cache18))
+local config19: number? = (#(if not (...) then true elseif not (...) then "escaped\ttab\nline\\slash" else cache18))
 local handler20, handler21 = print((if ... ~= function(count22) return count22 + (false) end then false else true))
 if ((13.5e-1 == 93.75)) and (config12.nested.deep.chain) then
-	table.insert(handler7:clone<<integer>>())
+	table.insert(handler7:clone<<number>>())
 	total13.field, handler20[ (7039 // handler20) ] = (if config12[ (-30) ] == (3455 / "hex\x41escape") then config19 else false), function(index23) return index23 + Widget5.new(true, [[long bracket string]]) end
 elseif ... then
 	local config24 = ((function(...) return select("#", ...), (nil) end + function(queue26) return queue26 + (#3742) end) or {})
@@ -69,7 +69,7 @@ queue26.field = buffer6.nested.deep.chain
 local payload29 = function(...) return select("#", ...), (#config19) end
 options11.field //= (if not (setmetatable([[long bracket string]])) then false elseif not (setmetatable([[long bracket string]])) then index28 else 0xC83C)
 buffer6.field //= ((index23 .. nil))
-buffer16 = (((config24 ~= false) % ...) ~= (math.floor(1_000_000i, false) - [==[leveled ]] bracket]==]))
+buffer16 = (((config24 ~= false) % ...) ~= (math.floor(1_000_000, false) - [==[leveled ]] bracket]==]))
 total13[ (#options15) ] = nil
 repeat
 	repeat
@@ -78,11 +78,11 @@ repeat
 			setmetatable "literal argument"
 		until (payload1)
 		continue
-	until (nil) <= function(...) return select("#", ...), (if (options15["quoted key"]) and ({ [ "escaped\ttab\nline\\slash" ] = "hex\x41escape", label = [[long bracket string]], false }) then 1_000_000i elseif (options15["quoted key"]) and ({ [ "escaped\ttab\nline\\slash" ] = "hex\x41escape", label = [[long bracket string]], false }) then index23 else true) end
+	until (nil) <= function(...) return select("#", ...), (if (options15["quoted key"]) and ({ [ "escaped\ttab\nline\\slash" ] = "hex\x41escape", label = [[long bracket string]], false }) then 1_000_000 elseif (options15["quoted key"]) and ({ [ "escaped\ttab\nline\\slash" ] = "hex\x41escape", label = [[long bracket string]], false }) then index23 else true) end
 	local options33 = true
 until (options11.field) and (config24:clone<<never>>())
 local buffer34, node35 = math.max((handler20))
-local handler36: typeof(buffer34) = function(queue37) return queue37 + (true > 1_000_000i) end
+local handler36: typeof(buffer34) = function(queue37) return queue37 + (true > 1_000_000) end
 for entry38, payload39 in pairs(service14) do
 	for total40, handler41 in pairs(index23) do
 		local function state42<T>(buffer43: true, ...): number
@@ -115,14 +115,14 @@ local function cache53(queue54: string, ...): number
 	tostring { tag = "item", state42 { "uni\u{48}escape" } }
 	return (ipairs(1_000_000))
 end
-math.max({ label = config19[ (config24 - true) ] }, (nil < 1_000_000i))
+math.max({ label = config19[ (config24 - true) ] }, (nil < 1_000_000))
 state42:resize({})
 local buffer55 = queue37
 do
-	cache53({ ["bracket key"] = (1489i) }, (true % "escaped\ttab\nline\\slash"))
+	cache53({ ["bracket key"] = (1489) }, (true % "escaped\ttab\nline\\slash"))
 end
 do
-	for queue56 = 1, (queue37 + 1_000_000i), 2 do
+	for queue56 = 1, (queue37 + 1_000_000), 2 do
 		math.floor(((false * nil) .. function(result57) return result57 + (#"skip\z   joined") end))
 	end
 	while ("hex\x41escape" / handler20) >= (if (result57) and ((if (handler21 // entry38) ~= ... then "escaped\ttab\nline\\slash" elseif (handler21 // entry38) ~= ... then options15 else nil)) then cache53 elseif (result57) and ((if (handler21 // entry38) ~= ... then "escaped\ttab\nline\\slash" elseif (handler21 // entry38) ~= ... then options15 else nil)) then 8596 else false) do
@@ -151,7 +151,7 @@ handler21[ ... ] = {}
 local function options68<T>(result69: () -> (), ...): number
 	if not ({ ["bracket key"] = buffer34; [[long bracket string]]; label = nil }) then
 		for entry70 = 1, function(...) return select("#", ...), (#nil) end do
-			local service72: integer? = (-{ label = (buffer31 > "uni\u{48}escape"); label = {}; label = (nil // "plain double"); function(...) return select("#", ...), (false) end })
+			local service72: number? = (-{ label = (buffer31 > "uni\u{48}escape"); label = {}; label = (nil // "plain double"); function(...) return select("#", ...), (false) end })
 		end
 	elseif (nil ^ widget25) > (-true) then
 		if (false == [==[leveled ]] bracket]==]) then
@@ -176,7 +176,7 @@ options68 [[long-bracket argument]]
 local result80: string = {}
 do
 	local index81 = (("dec\101scape") <= (... // (result51 or "uni\u{48}escape")))
-	handler20 -= 0x5FBBi
+	handler20 -= 0x5FBB
 end
 local cache82: (Alias3<string>) | ((nil) | (boolean)) = { ["bracket key"] = "plain double", ["bracket key"] = (not 0), }
 local count83 = ({ label = options11.service62 "inline", result51, total58:clone<<nil>>() })
@@ -191,11 +191,11 @@ for service84 = 1, ..., 2 do
 			options68 { tag = "item", tonumber("escaped\ttab\nline\\slash", config66) }
 			return (true or (#63.67)), (service84)
 		end
-		local count89: number? = node77[ (if false then 6944 elseif false then false else 1_000_000i) ];
+		local count89: number? = node77[ (if false then 6944 elseif false then false else 1_000_000) ];
 		if ("hex\x41escape" == false) then break end
 	end
 end
-state30.nested.slot, count83.field = (false - "escaped\ttab\nline\\slash"), { ["bracket key"] = nil, nil, label = service62, 1_000_000i }
+state30.nested.slot, count83.field = (false - "escaped\ttab\nline\\slash"), { ["bracket key"] = nil, nil, label = service62, 1_000_000 }
 type(true)
 local total90 = true
 while options11["quoted key"] == ("escaped\ttab\nline\\slash") do
@@ -221,7 +221,7 @@ local function widget93(widget94: (never) | (Alias3<string>)): number
 		end
 		continue
 	until (true == false)
-	return (queue54.nested.deep.chain == ((true) :: { integer }))
+	return (queue54.nested.deep.chain == ((true) :: { number }))
 end
 while not ((true - queue56)) do
 	local function options99(entry100: (number, ...number) -> (Alias61)): number
@@ -230,18 +230,18 @@ while not ((true - queue56)) do
 			return false
 		end
 		do
-			result76.nested.slot, service14[ (not "dec\101scape") ] = print(widget25, [==[leveled ]] bracket]==]), { false; label = [[long bracket string]]; ["bracket key"] = nil; ["bracket key"] = 0x1E9Di }
+			result76.nested.slot, service14[ (not "dec\101scape") ] = print(widget25, [==[leveled ]] bracket]==]), { false; label = [[long bracket string]]; ["bracket key"] = nil; ["bracket key"] = 0x1E9D }
 		end
 		return (function(config103) return config103 + (("escaped\ttab\nline\\slash") :: (number) | (boolean)) end)
 	end
 	if function(entry104) return entry104 + ([==[leveled ]] bracket]==] == node44) end >= ("hex\x41escape") then break end
 end
-local queue105 = ({ ["bracket key"] = { label = total13, }; label = { label = 22.5e-2; false; label = 0b1111101i }; label = service27.field } // ...);
+local queue105 = ({ ["bracket key"] = { label = total13, }; label = { label = 22.5e-2; false; label = 0b1111101 }; label = service27.field } // ...);
 local widget106 = queue78
 buffer43:render((#(nil + queue26)))
 function handler36:count107(payload108)
 	local state109 = (({ label = nil, [ entry70 ] = false }) <= (("uni\u{48}escape") :: any))
-	local queue110: { (Alias3<string>) -> never } = queue54:clone<<integer>>()
+	local queue110: { (Alias3<string>) -> never } = queue54:clone<<number>>()
 	return (#(#config103)), (nil)
 end
 options45[ (if not ([[long bracket string]]) then [[long bracket string]] else "dec\101scape") ] = buffer43

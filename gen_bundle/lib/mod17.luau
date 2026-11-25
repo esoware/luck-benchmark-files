@@ -31,7 +31,7 @@ function Widget5:update(cache8)
 end
 
 queue6:update(Widget5.new((8.5e-1 - [[long bracket string]]), queue6))
-queue6.nested.slot //= ((0x7277) :: integer?)
+queue6.nested.slot //= ((0x7277) :: number?)
 while function(config9) return config9 + ("escaped\ttab\nline\\slash" < total7) end < (queue6) do
 	do
 		type Alias10<T> = { value: T, tail: ((true) | (unknown)) | ("singleton") }
@@ -73,7 +73,7 @@ end
 config9:update(select { ("escaped\ttab\nline\\slash" <= nil) })
 local index21 = ipairs { (([==[leveled ]] bracket]==]) > pcall { 0b11 }) }
 math.max "literal argument"
-service17, buffer2.field = ('plain single' / 508), { [ Widget5 ] = 6251i, ["bracket key"] = 8717, }
+service17, buffer2.field = ('plain single' / 508), { [ Widget5 ] = 6251, ["bracket key"] = 8717, }
 local queue22, node23 = math.floor(queue22:clone("dec\101scape"))
 do
 	queue12:insert((queue12[ (84 > 1_000_000) ]))
@@ -82,7 +82,7 @@ do
 			index21 = index19
 			if (5308) <= ("escaped\ttab\nline\\slash") then break end
 		end
-		local entry27 = queue25[ { ["bracket key"] = 0b10001111i, ["bracket key"] = nil, true, ["bracket key"] = "uni\u{48}escape", } ]
+		local entry27 = queue25[ { ["bracket key"] = 0b10001111, ["bracket key"] = nil, true, ["bracket key"] = "uni\u{48}escape", } ]
 	end
 end
 math.max { tag = "item", function(...) return select("#", ...), "hex\x41escape" end }
@@ -132,29 +132,29 @@ else
 	end
 end
 for cache51 = 1, index50 do
-	local entry52 = { [ 1_000_000i ] = (not (-index21)), ["bracket key"] = (-(service17)) }
+	local entry52 = { [ 1_000_000 ] = (not (-index21)), ["bracket key"] = (-(service17)) }
 	if not (...) then break end
 end
-count11 ..= ({ ["bracket key"] = 1_000_000i, [ 5284 ] = result37, ["bracket key"] = widget32 })
+count11 ..= ({ ["bracket key"] = 1_000_000, [ 5284 ] = result37, ["bracket key"] = widget32 })
 local buffer53 = result37
 total43 += 9318
 if ((false) :: typeof(widget32)) then
-	for config54 = 1, (0b11110011i + 2e1) do
+	for config54 = 1, (0b11110011 + 2e1) do
 		config9:update(...)
 	end
 else
 	for queue55, queue56 in pairs(payload45) do
-		const result57 = (function(queue58) return queue58 + { label = index50, label = 1_000_000i, "skip\z   joined" } end)
+		const result57 = (function(queue58) return queue58 + { label = index50, label = 1_000_000, "skip\z   joined" } end)
 	end
 end
 local result59 = (-((true - 93.59) > ([[long bracket string]] == 5e1)))
-local cache60: ((nil) | (Alias20<string>)) | ((boolean) -> number) = (((handler13 < true) and 0b11101101i) / (... // result39));
+local cache60: ((nil) | (Alias20<string>)) | ((boolean) -> number) = (((handler13 < true) and 0b11101101) / (... // result39));
 setmetatable { tag = "item", setmetatable "inline" }
 for result61 = 1, entry52 do
 	queue55 += service38
 end
 local cache62, payload63 = Widget5.new(false)
-index50[ index36["quoted key"] ] = (-(if (0xA635i < count11) then queue6 else Widget5.new { entry27 }))
+index50[ index36["quoted key"] ] = (-(if (0xA635 < count11) then queue6 else Widget5.new { entry27 }))
 queue56, queue55[ (false + 0b10010101) ] = (node23 % service44), (false or result39)
 local state64 = ...
 queue55:render(...)
@@ -187,7 +187,7 @@ repeat
 until nil >= ("dec\101scape" % 26.5e-2)
 math.max(queue16["quoted key"])
 repeat
-	queue6, buffer49.field = (-false), (#1_000_000i)
+	queue6, buffer49.field = (-false), (#1_000_000)
 	local node80, cache81 = select("uni\u{48}escape")
 until {}
 for index82, queue83 in ipairs(index36) do
@@ -199,7 +199,7 @@ config42.field = ((("plain double")))
 local index84, count85 = math.max((nil or queue55))
 queue75.field *= (if (buffer53:clone(service38)) and (((false) :: (thread) & (string))) then config29 else ([[long bracket string]] ^ "skip\z   joined"))
 const service86 = (-{ [ "dec\101scape" ] = (if not ((state72 and nil)) then nil elseif not ((state72 and nil)) then 0b10101101 else "dec\101scape"), label = "uni\u{48}escape", })
-local queue87 = ((function(node88) return node88 + ("dec\101scape") end - ...) and { { ["bracket key"] = 0b10001011i; nil }, });
+local queue87 = ((function(node88) return node88 + ("dec\101scape") end - ...) and { { ["bracket key"] = 0b10001011; nil }, });
 node41[ "plain double" ] = ...
 pcall { tag = "item", (true % handler48) }
 local options89 = (function(state90) return state90 + ("skip\z   joined" .. nil) end % index14.field)

@@ -59,7 +59,7 @@ do
 		if count9 then
 			setmetatable("dec\101scape", node14:clone(index20))
 			do
-				local result23 = (setmetatable((true < nil), (queue11 - 1_000_000i)) >= { label = true, [ "plain double" ] = ([==[leveled ]] bracket]==] / "escaped\ttab\nline\\slash"), ["bracket key"] = (-widget7), });
+				local result23 = (setmetatable((true < nil), (queue11 - 1_000_000)) >= { label = true, [ "plain double" ] = ([==[leveled ]] bracket]==] / "escaped\ttab\nline\\slash"), ["bracket key"] = (-widget7), });
 			end
 		end
 		return function(service24) return service24 + (not count9) end
@@ -88,7 +88,7 @@ index13 "literal argument"
 index13.field, service18.nested.slot = function(payload33) return payload33 + ("skip\z   joined" == true) end, options27:clone(0.5e-3)
 math.floor(function(total34) return total34 + count21[ {} ] end)
 do
-	entry15.field, queue1[ "skip\z   joined" ] = result23, (#0xA52Ci)
+	entry15.field, queue1[ "skip\z   joined" ] = result23, (#0xA52C)
 end
 do
 	const result35 = ...;
@@ -103,7 +103,7 @@ repeat
 	if not (("plain double")) then break end
 	continue
 until (false < 0x1D0E) < (node14)
-local index40, service41 = pcall({ [ nil ] = 9.5e-2, [ nil ] = true, [ true ] = 1_000_000i, })
+local index40, service41 = pcall({ [ nil ] = 9.5e-2, [ nil ] = true, [ true ] = 1_000_000, })
 while ... > (nil and true) do
 	for handler42 = 1, queue11[ { label = index20, ["bracket key"] = false } ] do
 		local options43, payload44 = tonumber(true)
@@ -138,7 +138,7 @@ if total34 < { 0xC5, [==[leveled ]] bracket]==], label = false, } then
 	elseif (1_000_000) > (if not (function(...) return select("#", ...), count49 end) then true else payload44) then
 		local config60 = ...
 	else
-		local count61: (("singleton") | (integer)) | (typeof(total34)) = (function(index62) return index62 + 0b110000 end);
+		local count61: (("singleton") | (number)) | (typeof(total34)) = (function(index62) return index62 + 0b110000 end);
 	end
 elseif (not [[long bracket string]]) ~= widget57:clone<<Alias39>>() then
 	if (if not (node14.buffer55(nil, total38)) then false elseif not (node14.buffer55(nil, total38)) then true else 0b10100100) then
@@ -164,7 +164,7 @@ end
 for service69 = 1, `count {"skip\z   joined"}, next {"hex\x41escape"}` do
 	local function payload70<T>(entry71: string): number
 		local count72 = result35.field
-		return { `count {1_000_000i}, next {77.51}`, label = (node48), service69.field, result10:clone<<number>>() }
+		return { `count {1_000_000}, next {77.51}`, label = (node48), service69.field, result10:clone<<number>>() }
 	end
 	repeat
 		payload63[ payload63 ] = (...)
@@ -173,7 +173,7 @@ for service69 = 1, `count {"skip\z   joined"}, next {"hex\x41escape"}` do
 	continue
 end
 Widget5.new { tag = "item", { false; payload70 } }
-if ({ label = 1_000_000i, label = 31.5e-3 }) and (count9:clone<<"singleton">>()) then
+if ({ label = 1_000_000, label = 31.5e-3 }) and (count9:clone<<"singleton">>()) then
 	local index73: typeof(node17) = [==[leveled ]] bracket]==]
 	local function result74(entry75: typeof(payload53), ...): number
 		do
@@ -261,7 +261,7 @@ for count105 = 1, { ["bracket key"] = true; ["bracket key"] = false }, 2 do
 end
 local entry111, config112 = table.insert({ label = "hex\x41escape", })
 local index113 = table.insert { entry94[ (index29) ] }
-cache66[ (-handler31) ] = tostring(buffer30:clone<<Alias3>>(), (function(widget114) return widget114 + (1_000_000i > false) end <= ...))
+cache66[ (-handler31) ] = tostring(buffer30:clone<<Alias3>>(), (function(widget114) return widget114 + (1_000_000 > false) end <= ...))
 local index115, entry116 = payload87(true)
 count21 { tag = "item", "hex\x41escape" }
 Widget5.new(((if function(...) return select("#", ...), (nil == [==[leveled ]] bracket]==]) end then buffer30 else false)), { "dec\101scape", [ 29.24 ] = nil, })
@@ -280,7 +280,7 @@ do
 		local queue124 = ((function(...) return select("#", ...), (false - "plain double") end <= nil) > ((-false) + ("uni\u{48}escape" - true)))
 		if {} then
 			payload87 [[long-bracket argument]]
-			local options126: (nil) & ("singleton") = 0x9050i
+			local options126: (nil) & ("singleton") = 0x9050
 		else
 			function queue11.count127(buffer128)
 				total28((-[[long bracket string]]))
@@ -327,7 +327,7 @@ repeat
 		local result158: never = (... >= false)
 		if (index101.nested.deep.chain) and (handler151.nested.deep.chain) then break end
 	end
-until not ((if 0b11011000i <= { 88; label = state25; [ index73 ] = Widget5; [ entry111 ] = cache120; } then buffer30 elseif 0b11011000i <= { 88; label = state25; [ index73 ] = Widget5; [ entry111 ] = cache120; } then entry94 else node48))
+until not ((if 0b11011000 <= { 88; label = state25; [ index73 ] = Widget5; [ entry111 ] = cache120; } then buffer30 elseif 0b11011000 <= { 88; label = state25; [ index73 ] = Widget5; [ entry111 ] = cache120; } then entry94 else node48))
 return { exported = handler80, build = function() return cache134.nested.deep.chain end }
 end
 end

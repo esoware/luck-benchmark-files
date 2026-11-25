@@ -22,7 +22,7 @@ function Widget5.new(widget6: number?, ...)
 	self.slots = { ... }
 	repeat
 		type Alias7 = typeof(widget6)
-	until ({ label = config2, ["bracket key"] = 1_000_000, [ "uni\u{48}escape" ] = true, ["bracket key"] = 1_000_000i }) and (config2:clone<<"singleton">>())
+	until ({ label = config2, ["bracket key"] = 1_000_000, [ "uni\u{48}escape" ] = true, ["bracket key"] = 1_000_000 }) and (config2:clone<<"singleton">>())
 	type Alias8 = never?
 	return self
 end
@@ -76,13 +76,13 @@ for options25 = 1, (nil <= "skip\z   joined") do
 	end
 end
 while ('plain single' >= 36.5e-1) do
-	type(0b11111101i, [==[leveled ]] bracket]==])
+	type(0b11111101, [==[leveled ]] bracket]==])
 	continue
 end
 local config34 = false
 config34:resize(...)
 tostring "literal argument"
-local widget35 = ({ label = select(1_000_000i, 0b11010010i), ["bracket key"] = (not 21.96), ["bracket key"] = (widget6 % true), ["bracket key"] = function(count36) return count36 + count12[ (true) ] end, } + total19)
+local widget35 = ({ label = select(1_000_000, 0b11010010), ["bracket key"] = (not 21.96), ["bracket key"] = (widget6 % true), ["bracket key"] = function(count36) return count36 + count12[ (true) ] end, } + total19)
 cache14:insert(total27[ (false / cache18) ])
 type Alias37 = typeof(count11)
 select [[long-bracket argument]]
@@ -94,7 +94,7 @@ if "dec\101scape" < options29.nested.deep.chain then
 	until (#"dec\101scape") > (0b11111111 .. 34)
 end
 local index40 = ((math.floor(count36)));
-local entry41 = 1_000_000i
+local entry41 = 1_000_000
 repeat
 	state23.nested.slot = ("uni\u{48}escape")
 	while (true - "escaped\ttab\nline\\slash") do
@@ -121,7 +121,7 @@ local function handler54(index55: never): number
 	local config56, cache57 = setmetatable(node46[ (false) ])
 	return nil
 end
-service15 *= ({ "uni\u{48}escape", label = 'plain single', [ nil ] = nil, 1_000_000i } + function(widget58) return widget58 + (not 63.4) end)
+service15 *= ({ "uni\u{48}escape", label = 'plain single', [ nil ] = nil, 1_000_000 } + function(widget58) return widget58 + (not 63.4) end)
 local function state59(handler60: typeof(cache24)): number
 	repeat
 		local buffer61 = (state23 * ((0xD8C1) ^ (9e2 == state23)))
@@ -164,13 +164,13 @@ while (false) and ((entry22 / nil)) do
 	if (widget45 ^ index40) > state64[ function(...) return select("#", ...), (count12 % "uni\u{48}escape") end ] then break end
 	continue
 end
-options73.nested.slot, widget13.nested.slot = (1_000_000i - nil), (false + 'plain single')
+options73.nested.slot, widget13.nested.slot = (1_000_000 - nil), (false + 'plain single')
 math.floor "literal argument"
 while 85 do
 	for widget78 = 1, (2.66 ~= nil) do
 		entry38.nested.slot, options25.field = options29["quoted key"], false
 	end
-	if (("hex\x41escape") :: integer) then
+	if (("hex\x41escape") :: number) then
 		local handler79, service80 = tonumber((0xE7A6 % entry41))
 	end
 end
@@ -182,7 +182,7 @@ else
 	local payload82 = function(...) return select("#", ...), (#handler76) end
 end
 local state84 = state64
-tostring((ipairs(state66) // (config34 >= 1_000_000i)))
+tostring((ipairs(state66) // (config34 >= 1_000_000)))
 for result85, state86 in next, count12, nil do
 	local state87 = 'plain single'
 	for options88 = 1, {}, 2 do

@@ -64,13 +64,13 @@ end
 if count8.field == ... then
 	repeat
 		pcall(((count8 // false) == function(widget20) return widget20 + (not nil) end))
-	until ((if not (("hex\x41escape" + nil)) then 1_000_000i elseif not (("hex\x41escape" + nil)) then true else 40.5e-2)) and ({ label = total11 })
+	until ((if not (("hex\x41escape" + nil)) then 1_000_000 elseif not (("hex\x41escape" + nil)) then true else 40.5e-2)) and ({ label = total11 })
 elseif (87) == function(...) return select("#", ...), ([==[leveled ]] bracket]==]) end then
 	entry17 = function(result22) return result22 + (false or config16) end
 end
 local handler23, entry24 = Widget5.new("skip\z   joined")
 local payload25 = (not config16);
-local index26: integer? = function(...) return select("#", ...), (result6) end
+local index26: number? = function(...) return select("#", ...), (result6) end
 local total28: typeof(options15) = (nil >= payload25[ false ]);
 local options29 = result6
 config16[ ... ] /= (not (handler9 ~= 0b10010101))
@@ -92,7 +92,7 @@ tostring { tag = "item", (-handler9) }
 do
 	while (service18 >= nil) < (-'plain single') do
 		if (true // 0xA106) <= math.floor { count21 } then
-			if (if (#46.5e-2) >= ((entry24) :: typeof(total11)) then nil elseif (#46.5e-2) >= ((entry24) :: typeof(total11)) then false else "escaped\ttab\nline\\slash") == (nil > 1_000_000i) then
+			if (if (#46.5e-2) >= ((entry24) :: typeof(total11)) then nil elseif (#46.5e-2) >= ((entry24) :: typeof(total11)) then false else "escaped\ttab\nline\\slash") == (nil > 1_000_000) then
 				handler1.field //= 0b1001000
 			else
 				entry24:insert({})
@@ -117,18 +117,18 @@ do
 		end
 		if not ((options36 < total28)) then break end
 	end
-	count10[ "plain double" ] = ((((0b1110101i) :: unknown?) < type(node2, "hex\x41escape")) >= ...)
+	count10[ "plain double" ] = ((((0b1110101) :: unknown?) < type(node2, "hex\x41escape")) >= ...)
 end
 service41[ function(...) return select("#", ...), { options15 } end ] = (result31.field)
-count8.field += ([==[leveled ]] bracket]==] <= `count {1_000_000i}, next {false}`)
+count8.field += ([==[leveled ]] bracket]==] <= `count {1_000_000}, next {false}`)
 if not (math.max { false }) then
 	handler42.nested.slot, count10.nested.slot = {}, function(...) return select("#", ...), "uni\u{48}escape" end
-	local node51: (typeof(buffer46)) | ((Alias4) | (integer)) = handler44
+	local node51: (typeof(buffer46)) | ((Alias4) | (number)) = handler44
 else
 	result6.field //= ((not 0b10001110))
 end
 if (service37) and ((not "dec\101scape")) then
-	local function widget52<T>(config53: (any) & (integer)): number
+	local function widget52<T>(config53: (any) & (number)): number
 		type(pcall { (handler42) }, total28:clone(buffer46))
 		queue47.field = { ["bracket key"] = (index26 <= false) }
 		return ((true)), (true)
@@ -155,7 +155,7 @@ do
 		local index66, service67 = widget52(...)
 	end
 end
-local handler68, cache69 = queue47.node59({ label = 1_000_000i; label = true; })
+local handler68, cache69 = queue47.node59({ label = 1_000_000; label = true; })
 do
 	for node70 = 1, nil do
 		repeat
@@ -181,9 +181,9 @@ local function handler72<T>(handler73: (Alias3) & ("singleton"), ...): number
 	return ((true // "uni\u{48}escape") == (220 >= nil))
 end
 string.format "literal argument"
-local entry76: unknown = { ["bracket key"] = ((nil == "skip\z   joined")); ["bracket key"] = { [ true ] = options29.nested.deep.chain, (6197i), result31, }; label = ... }
+local entry76: unknown = { ["bracket key"] = ((nil == "skip\z   joined")); ["bracket key"] = { [ true ] = options29.nested.deep.chain, (6197), result31, }; label = ... }
 local state77 = "skip\z   joined"
-if (1.82 * 1_000_000) <= { [ 6335 ] = node70; 0x2337i; 'plain single'; } then
+if (1.82 * 1_000_000) <= { [ 6335 ] = node70; 0x2337; 'plain single'; } then
 	local total78 = service37:clone((widget52 <= true))
 	count8.nested.slot *= ((false) :: (true) & (true))
 elseif [==[leveled ]] bracket]==] then
@@ -210,7 +210,7 @@ do
 			local function widget90(count91: (nil) | ("singleton"), ...): number
 				queue74:render(widget20.result35 { count79.field })
 				Widget5.new((count21:clone<<Alias19>>() .. (queue48 + payload33)), function(handler92) return handler92 + false end)
-				return ((1_000_000i % 0x60A0) ~= function(...) return select("#", ...), (37.5e-2 * false) end)
+				return ((1_000_000 % 0x60A0) ~= function(...) return select("#", ...), (37.5e-2 * false) end)
 			end
 			if ... then break end
 		end
@@ -223,14 +223,14 @@ local function payload96(handler97: (unknown) & (Alias45)): number
 	state81[ index50 ] = (("escaped\ttab\nline\\slash") :: typeof(cache13))
 	return "dec\101scape";
 end
-local function node100<T>(index101: { label: integer, [string]: nil }): number
+local function node100<T>(index101: { label: number, [string]: nil }): number
 	function entry82.queue102(cache103)
 		entry76, result35 = (true), payload84["quoted key"]
 		type Alias104 = { { "singleton" } }
-		return ((not 0x222i));
+		return ((not 0x222));
 	end
 	local service105 = nil;
-	return { [ "uni\u{48}escape" ] = service18, label = (not node55), [ queue48 ] = node100:clone<<nil>>() }, (if `count {0b11100101i}, next {nil}` then nil else 72.75)
+	return { [ "uni\u{48}escape" ] = service18, label = (not node55), [ queue48 ] = node100:clone<<nil>>() }, (if `count {0b11100101}, next {nil}` then nil else 72.75)
 end
 local function widget106<T>(config107: (never) -> unknown): number
 	local widget108, options109 = type(index101:clone<<nil>>())
@@ -243,7 +243,7 @@ export type Alias114<T> = { value: T, tail: (Alias4) & (unknown) }
 while (config43 + 1_000_000) <= function(payload115) return payload115 + function(config116) return config116 + `count {0x1716}, next {"hex\x41escape"}` end end do
 	local node117: any? = (("plain double") or ...)
 end
-type Alias118 = { { integer } }
+type Alias118 = { { number } }
 count21.field = function(service119) return service119 + (1_000_000 <= "escaped\ttab\nline\\slash") end
 local count120 = {}
 config43:insert(function(...) return select("#", ...), ... end)
@@ -257,10 +257,10 @@ for handler122 = 1, (if function(...) return select("#", ...), ... end then true
 	end
 	local config125 = "dec\101scape"
 end
-if 0xBB71i ~= (buffer40 .. service89) then
+if 0xBB71 ~= (buffer40 .. service89) then
 	handler39[ ... ] //= (node55 // (state38))
 	local service126: typeof(state38) = (if (service37["quoted key"]) and (([[long bracket string]])) then entry99 else (("escaped\ttab\nline\\slash" .. 8e0) - node55["quoted key"]));
-elseif options29:clone<<boolean>>() > (5723i >= nil) then
+elseif options29:clone<<boolean>>() > (5723 >= nil) then
 	queue47.node59(((if not (function(options127) return options127 + "hex\x41escape" end) then 0x7B42 else false)))
 end
 return { exported = count91, build = function() return node70[ (payload33) ] end }

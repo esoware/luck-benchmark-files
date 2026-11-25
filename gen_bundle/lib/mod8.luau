@@ -20,7 +20,7 @@ function Widget5.new(config6: number?, ...)
 	local self = setmetatable({}, Widget5)
 	self.size = config6 or 0
 	self.slots = { ... }
-	local buffer7: (thread) | ({ Alias3 }) = (true ~= (if math.floor "inline" ~= (true % cache2) then 1_000_000i elseif math.floor "inline" ~= (true % cache2) then config6 else 0x5739i))
+	local buffer7: (thread) | ({ Alias3 }) = (true ~= (if math.floor "inline" ~= (true % cache2) then 1_000_000 elseif math.floor "inline" ~= (true % cache2) then config6 else 0x5739))
 	cache2:render((1_000_000))
 	return self
 end
@@ -32,7 +32,7 @@ function Widget5:update(buffer8)
 end
 
 for cache10 = 1, false do
-	type Alias11 = integer
+	type Alias11 = number
 	if pcall { 38.5e-1 } then break end
 end
 local result12: ((Alias3) & (Alias11)) | ((boolean) & ("singleton")) = (#config6);
@@ -52,7 +52,7 @@ local function node13(buffer14: Alias11, ...): number
 	return cache18, (result1 - [==[leveled ]] bracket]==])
 end
 local options21: { () -> () } = string.format((string.format(node13) + node13 "inline"))
-node13({ ["bracket key"] = (3968i / 9e2), ..., cache10, label = { label = nil } })
+node13({ ["bracket key"] = (3968 / 9e2), ..., cache10, label = { label = nil } })
 options21 = function(payload22) return payload22 + (node13) end
 local function cache23<T>(widget24: unknown?): number
 	repeat
@@ -64,7 +64,7 @@ local function cache23<T>(widget24: unknown?): number
 		else
 			local count27: "singleton" = ((buffer14) <= (buffer14["quoted key"] - ("skip\z   joined" % 4626)))
 		end
-		local cache28 = (if (true) then "hex\x41escape" elseif (true) then 0b11110101i else true)
+		local cache28 = (if (true) then "hex\x41escape" elseif (true) then 0b11110101 else true)
 	until (cache18 % buffer8) >= queue26.field
 	return (tostring "inline" - cache28), string.format<<never>>(true)
 end
@@ -97,9 +97,9 @@ repeat
 	type((if (0b11010 .. 43.5e-2) then false else state20), { label = true })
 until cache23:clone<<boolean>>()
 cache23((index17 * (true or cache28)), cache23)
-local config42 = ((... / (1_000_000i <= 0b100001)) + ("plain double"))
+local config42 = ((... / (1_000_000 <= 0b100001)) + ("plain double"))
 if (index17 and queue26) > function(node43) return node43 + state20[ (not false) ] end then
-	local config44 = ((((false) :: (integer) & (integer)) or ...) >= ...);
+	local config44 = ((((false) :: (number) & (number)) or ...) >= ...);
 else
 	local state45 = ((ipairs<<number>>(18.5e-1) .. widget19) and handler16);
 end
@@ -138,14 +138,14 @@ while ((true ^ "plain double")) and ((false <= false)) do
 	end
 end
 local buffer65: (true) & (thread) = (not (-false));
-widget24[ ... ], widget37[ 0b100000 ] = function(cache66) return cache66 + cache51 end, 2186i
+widget24[ ... ], widget37[ 0b100000 ] = function(cache66) return cache66 + cache51 end, 2186
 local state67 = { (widget46.nested.deep.chain); ["bracket key"] = ({}); {}; label = (...); }
 local widget68 = function(entry69) return entry69 + widget46<<nil>>(cache66) end
 entry29:render((#function(cache70) return cache70 + widget46:clone("hex\x41escape") end))
 if (if nil then cache2 else index17) then
 	result58 { tag = "item", (nil + handler57) }
 elseif (widget48) and (("skip\z   joined" == 5486)) then
-	buffer53, options50.nested.slot = { [ 1_000_000i ] = count27, [ 95 ] = 81.52, }, "dec\101scape"
+	buffer53, options50.nested.slot = { [ 1_000_000 ] = count27, [ 95 ] = 81.52, }, "dec\101scape"
 end
 result58 "literal argument"
 if ... then
@@ -185,7 +185,7 @@ math.floor { tag = "item", ("hex\x41escape" % [[long bracket string]]) }
 local total88 = function(handler89) return handler89 + (nil / true) end
 for cache90 = 1, (nil < options50), 2 do
 	do
-		setmetatable { tag = "item", cache85(37.92, 0xA97Fi) }
+		setmetatable { tag = "item", cache85(37.92, 0xA97F) }
 	end
 end
 local cache91, queue92 = math.floor(...)

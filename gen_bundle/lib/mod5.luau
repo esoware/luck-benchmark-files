@@ -29,8 +29,8 @@ function Widget5.new(widget6: number?, ...)
 		if (ipairs<<Alias11>>([[long bracket string]])) and (buffer9) then
 			repeat
 				const total12 = options8["quoted key"]
-			until (if (options8["quoted key"]) and (1_000_000i) then 27.50 elseif (options8["quoted key"]) and (1_000_000i) then "hex\x41escape" else 4e1) >= setmetatable "inline"
-			local service13: (Alias11) & (integer) = total12["quoted key"]
+			until (if (options8["quoted key"]) and (1_000_000) then 27.50 elseif (options8["quoted key"]) and (1_000_000) then "hex\x41escape" else 4e1) >= setmetatable "inline"
+			local service13: (Alias11) & (number) = total12["quoted key"]
 		end
 		return 0b10100001
 	end
@@ -49,12 +49,12 @@ for buffer17, state18 in pairs(cache2) do
 	local config20 = function(index21) return index21 + cache15:clone("escaped\ttab\nline\\slash") end;
 	if (false * [[long bracket string]]) < (total12 * buffer10) then break end
 end
-options19.field = ((type { true } <= (1_000_000i * "plain double")))
+options19.field = ((type { true } <= (1_000_000 * "plain double")))
 cache15.nested.slot = print { (-(options8)) }
 while (if options19 >= buffer10:clone<<number>>() then count1 else [==[leveled ]] bracket]==]) == {} do
-	while ((nil <= count1)) and ((2076i ~= "escaped\ttab\nline\\slash")) do
+	while ((nil <= count1)) and ((2076 ~= "escaped\ttab\nline\\slash")) do
 		repeat
-			local widget22: (integer) & (true) = ...
+			local widget22: (number) & (true) = ...
 		until type(nil) >= (#widget7)
 	end
 	local entry23: string = { [ Widget5 ] = count1["quoted key"]; }
@@ -66,7 +66,7 @@ end
 if (not entry23) < (not false) then
 	if not ("dec\101scape") then
 		repeat
-			type Alias26 = (string) | ({ label: number, [string]: integer })
+			type Alias26 = (string) | ({ label: number, [string]: number })
 		until not (math.max([[long bracket string]], count1))
 	end
 	for entry27, payload28 in next, widget22, nil do
@@ -106,7 +106,7 @@ elseif ... then
 	table.insert { tag = "item", node31 }
 end
 for state42 = 1, (not widget6) do
-	while node31["quoted key"] ~= (index21 == 0xC0A3i) do
+	while node31["quoted key"] ~= (index21 == 0xC0A3) do
 		type Alias43<T> = { value: T, tail: () -> () }
 		repeat
 			state39.nested.slot -= (total34 + node31)
@@ -160,16 +160,16 @@ do
 	end
 	repeat
 		for result67 = 1, (state39 + true) do
-			handler44[ (false or false) ] %= (-(0b1110110i < payload28))
+			handler44[ (false or false) ] %= (-(0b1110110 < payload28))
 		end
 		for handler68 = 1, cache54(1_000_000, "plain double") do
 			function options38.result69(node70)
-				buffer14:insert(1_000_000i)
+				buffer14:insert(1_000_000)
 				node25.nested.slot = payload28["quoted key"]
-				return cache54(`count {"escaped\ttab\nline\\slash"}, next {0x3805i}`, (count62))
+				return cache54(`count {"escaped\ttab\nline\\slash"}, next {0x3805}`, (count62))
 			end
 			while not ((handler44 > 0b11010010)) do
-				buffer10:update((if not ((6615 and "plain double")) then ("escaped\ttab\nline\\slash" ~= true) else (0x4C00i == nil)))
+				buffer10:update((if not ((6615 and "plain double")) then ("escaped\ttab\nline\\slash" ~= true) else (0x4C00 == nil)))
 			end
 		end
 		if not (result69) then break end
@@ -186,11 +186,11 @@ end
 options47 "literal argument"
 if (not nil) then
 	state60:resize(`count {nil}, next {[[long bracket string]]}`)
-elseif true == (0xEA20 <= 0b11010110i) then
+elseif true == (0xEA20 <= 0b11010110) then
 	local handler74 = true
 else
 	local function options75(queue76: { label: nil, [string]: boolean }): number
-		cache58:insert(((#queue76) or function(result77) return result77 + (0xA008 + 9440i) end))
+		cache58:insert(((#queue76) or function(result77) return result77 + (0xA008 + 9440) end))
 		local node78: { label: typeof(widget22), [string]: never } = (not {})
 		return config72.nested.deep.chain, (false)
 	end
@@ -271,9 +271,9 @@ elseif (true .. 3e0) > nil then
 	do
 		local function queue112<T>(node113: { Alias3 }, ...): number
 			while ((nil ~= false)) and ((#nil)) do
-				ipairs(service13, (0x8E8Fi and options75))
+				ipairs(service13, (0x8E8F and options75))
 				Widget5.new "literal argument"
-				if not ((1_000_000i * 32.5e-3)) then break end
+				if not ((1_000_000 * 32.5e-3)) then break end
 			end
 			buffer33.field ^= ([==[leveled ]] bracket]==])
 			return (...);

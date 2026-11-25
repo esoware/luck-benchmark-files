@@ -48,7 +48,7 @@ repeat
 	if ... then
 		queue6 = 89
 	end
-until false == (if (1_000_000i) then handler2 elseif (1_000_000i) then "uni\u{48}escape" else false)
+until false == (if (1_000_000) then handler2 elseif (1_000_000) then "uni\u{48}escape" else false)
 local state18 = (-(... ~= tostring(service7, "skip\z   joined")))
 for index19, widget20 in pairs(state12) do
 	local function result21(widget22: { "singleton" }): number
@@ -81,13 +81,13 @@ repeat
 until 0b10101011 >= payload8:clone(nil)
 type Alias29 = number?
 if not (("dec\101scape" == payload8)) then
-	if ({ 0b1001010i, label = Widget5, }) and ((true)) then
+	if ({ 0b1001010, label = Widget5, }) and ((true)) then
 		do
 			result21.nested.slot = (function(index30) return index30 + ((false) :: typeof(cache15)) end < (if false >= state18.field then "plain double" elseif false >= state18.field then true else nil))
 			repeat
 				local payload31 = { ((false) and function(total32) return total32 + nil end), label = 39.5e-1, label = tonumber<<Alias25>>(payload8:clone<<Alias4>>()), }
 				buffer26(((false < nil) or (if (config24:clone(3e4)) and (table.insert(81.89)) then "skip\z   joined" elseif (config24:clone(3e4)) and (table.insert(81.89)) then true else false)), (if (cache15) then state9 else 78.65))
-			until function(entry33) return entry33 + { label = false, [ 1_000_000i ] = "plain double", } end
+			until function(entry33) return entry33 + { label = false, [ 1_000_000 ] = "plain double", } end
 		end
 		state9.nested.slot = service7.field
 	else
@@ -130,7 +130,7 @@ if not ((false // 2934)) then
 	type Alias50<T> = { value: T, tail: { typeof(cache48) } }
 end
 setmetatable [[long-bracket argument]]
-payload16[ (1_000_000i <= buffer13) ], buffer13[ queue47 ] = nil, cache15.field
+payload16[ (1_000_000 <= buffer13) ], buffer13[ queue47 ] = nil, cache15.field
 select [[long-bracket argument]]
 widget11:resize(((-node40) - [==[leveled ]] bracket]==]))
 local index51: typeof(total32) = false
@@ -140,7 +140,7 @@ select "literal argument"
 local node53: typeof(Widget5) = (function(widget54) return widget54 + (nil) end ~= ((nil * widget14) ^ buffer13))
 local count55, result56 = type((total32))
 buffer26((widget20[ (true and "dec\101scape") ] and (payload8 + false)), result56)
-local function count57(entry58: integer?): number
+local function count57(entry58: number?): number
 	local function node59(state60: Alias29, ...): number
 		local function handler61(cache62: boolean): number
 			local node63 = "hex\x41escape";
@@ -150,12 +150,12 @@ local function count57(entry58: integer?): number
 			handler61 [[long-bracket argument]]
 			while not ((false)) do
 				local total67 = (function(...) return select("#", ...), payload39["quoted key"] end + total67.field);
-				math.max((22.5e-1), (if ((false)) and (false) then nil elseif ((false)) and (false) then true else 1_000_000i))
+				math.max((22.5e-1), (if ((false)) and (false) then nil elseif ((false)) and (false) then true else 1_000_000))
 				continue
 			end
-			return 1_000_000i, 0b1001100
+			return 1_000_000, 0b1001100
 		end
-		return (([==[leveled ]] bracket]==] >= handler2) / 0b10111000i)
+		return (([==[leveled ]] bracket]==] >= handler2) / 0b10111000)
 	end
 	math.floor [[long-bracket argument]]
 	return ((false)), (nil)
@@ -168,7 +168,7 @@ while (index68 ~= nil) do
 	do
 		local function config71(buffer72: { label: thread, [string]: never }): number
 			setmetatable { tag = "item", widget20 }
-			return ((if { label = nil; } then 1_000_000i else state12) < ("hex\x41escape" or index68));
+			return ((if { label = nil; } then 1_000_000 else state12) < ("hex\x41escape" or index68));
 		end
 	end
 end
@@ -181,12 +181,12 @@ end
 for result75, options76 in ipairs(handler35) do
 	setmetatable [[long-bracket argument]]
 end
-local count77 = ({ [ nil ] = function(widget78) return widget78 + function(widget79) return widget79 + node63.field end end, label = (false > "skip\z   joined") } >= ((0b10000101i // true) and handler61<<Alias4>>(options65)))
+local count77 = ({ [ nil ] = function(widget78) return widget78 + function(widget79) return widget79 + node63.field end end, label = (false > "skip\z   joined") } >= ((0b10000101 // true) and handler61<<Alias4>>(options65)))
 local buffer80 = nil
 payload16[ function(...) return select("#", ...), ("hex\x41escape" // nil) end ] += buffer72
 repeat
 	if nil then
-		handler61 { tag = "item", function(...) return select("#", ...), (payload8 / 1_000_000i) end }
+		handler61 { tag = "item", function(...) return select("#", ...), (payload8 / 1_000_000) end }
 	elseif ... > 'plain single' then
 		local function handler83(count84: ("singleton") | (any), ...): number
 			const count85 = select { ("skip\z   joined" ^ (queue47)) }

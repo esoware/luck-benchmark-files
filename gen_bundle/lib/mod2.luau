@@ -22,7 +22,7 @@ function Widget5.new(options6: number?, ...)
 	self.slots = { ... }
 	local function cache7(options8: () -> ()): number
 		local queue9 = math.floor "inline";
-		queue9.nested.slot = 0x25C2i
+		queue9.nested.slot = 0x25C2
 		return ipairs((false % cache7), (#[[long bracket string]])), string.format { 1_000_000 }
 	end
 	return self
@@ -59,7 +59,7 @@ if (queue10) and (true) then
 		index13:update(node11["quoted key"])
 	end
 else
-	local entry19 = (tonumber((#1_000_000i)) % index13);
+	local entry19 = (tonumber((#1_000_000)) % index13);
 end
 node2.nested.slot, node2 = (1.14 / false), (nil)
 cache7.nested.slot = { label = ({ ["bracket key"] = 0b10111, options8, [ nil ] = false } < (-true)), ((nil) and math.floor("uni\u{48}escape")), [ widget16 ] = queue9[ function(...) return select("#", ...), { ["bracket key"] = true, [ node2 ] = "dec\101scape" } end ], (true) }
@@ -107,11 +107,11 @@ const config38 = (#(function(state39) return state39 + ((1e1) :: typeof(buffer22
 queue10.field = nil
 export type Alias40 = any
 while (function(config41) return config41 + function(...) return select("#", ...), ([[long bracket string]] > result42) end end) and ({}) do
-	local entry43: integer = index18:clone({ [ state39 ] = ... })
+	local entry43: number = index18:clone({ [ state39 ] = ... })
 	continue
 end
-local entry44 = (not { label = (entry44 ~= entry43), [ false ] = ("skip\z   joined"), label = 1_000_000i })
-index18[ (if ('plain single') ~= (buffer22 == index18) then 1_000_000i elseif ('plain single') ~= (buffer22 == index18) then nil else "skip\z   joined") ] = true
+local entry44 = (not { label = (entry44 ~= entry43), [ false ] = ("skip\z   joined"), label = 1_000_000 })
+index18[ (if ('plain single') ~= (buffer22 == index18) then 1_000_000 elseif ('plain single') ~= (buffer22 == index18) then nil else "skip\z   joined") ] = true
 pcall(Widget5.new { false }, (#"uni\u{48}escape"))
 widget33 "literal argument"
 math.max(0b10011011, 0b11010010)
@@ -120,7 +120,7 @@ for config45, count46 in pairs(count46) do
 end
 for entry47, buffer48 in ipairs(Widget5) do
 	local widget49: nil = {}
-	if (function(total50) return total50 + (not 1_000_000i) end) and ({ label = 'plain single', ["bracket key"] = 0x56B8i, result42, ["bracket key"] = buffer22 }) then break end
+	if (function(total50) return total50 + (not 1_000_000) end) and ({ label = 'plain single', ["bracket key"] = 0x56B8, result42, ["bracket key"] = buffer22 }) then break end
 end
 local total51 = cache25:clone<<Alias27<string>>>()
 const entry52 = (((not result42) == count46:clone(50)) * (nil .. function(...) return select("#", ...), ipairs(widget29) end))
@@ -142,7 +142,7 @@ else
 end
 local function options61(index62: (Alias55, ...Alias55) -> (true)): number
 	repeat
-		entry14.nested.slot, options6[ (0b110111i) ] = {}, (false and queue36)
+		entry14.nested.slot, options6[ (0b110111) ] = {}, (false and queue36)
 		local result63, queue64 = pcall(function(...) return select("#", ...), (nil + "hex\x41escape") end)
 	until true == (nil * true)
 	return (("hex\x41escape" <= widget16) >= (0x27C))

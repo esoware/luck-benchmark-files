@@ -11,7 +11,7 @@ do
 local options1 = string.rep
 local options2 = os.clock
 export type Alias3 = any
-type Alias4 = (Alias3) -> (integer) | (true)
+type Alias4 = (Alias3) -> (number) | (true)
 
 local Widget5 = {}
 Widget5.__index = Widget5
@@ -69,20 +69,20 @@ if (not options2) ~= (if not (Widget5.new(true)) then true else true) then
 				entry19(((-true) >= (nil)), 0b1111110)
 			until (options2 == widget14)
 			local function handler27<T>(buffer28: Alias21<string>, ...): number
-				options1[ (handler27 - entry19) ] = pcall(2168i, { ["bracket key"] = (-nil), [ true ] = (false .. false), label = ("escaped\ttab\nline\\slash" * nil) })
+				options1[ (handler27 - entry19) ] = pcall(2168, { ["bracket key"] = (-nil), [ true ] = (false .. false), label = ("escaped\ttab\nline\\slash" * nil) })
 				return Widget5, (count13 < 49.5e-1)
 			end
 			if `count {75.32}, next {config25}` then break end
 		end
-		if not (function(options29) return options29 + (nil >= 1_000_000i) end) then break end
+		if not (function(options29) return options29 + (nil >= 1_000_000) end) then break end
 	end
 	for count30 = 1, ("uni\u{48}escape" + nil) do
 		if (if (...) and (nil) then config10 elseif (...) and (nil) then true else 'plain single') then
-			type Alias31 = (integer) & (Alias3)
+			type Alias31 = (number) & (Alias3)
 		else
 			repeat
 				handler27 { tag = "item", (63.26 - options2) }
-				buffer28[ 0x7F95 ] ..= 0b111101i
+				buffer28[ 0x7F95 ] ..= 0b111101
 				continue
 			until options29.nested.deep.chain
 		end
@@ -125,7 +125,7 @@ while not (queue12) do
 		end
 	end
 	do
-		local config45 = math.floor((if nil == function(state46) return state46 + options41 end then (1_000_000i <= true) else ...), 0b11001011i);
+		local config45 = math.floor((if nil == function(state46) return state46 + options41 end then (1_000_000 <= true) else ...), 0b11001011);
 		node16.field = handler34
 	end
 end
@@ -148,7 +148,7 @@ for entry56, count57 in next, entry19, nil do
 	local entry58: true = ((#{}))
 end
 buffer8:render(cache6)
-type Alias59 = { label: (integer) & (true), [string]: Alias4 }
+type Alias59 = { label: (number) & (true), [string]: Alias4 }
 while (queue23 + "uni\u{48}escape") do
 	if not ((config25 >= options1)) then
 		options41(0x14AB)
@@ -175,7 +175,7 @@ elseif ipairs "inline" > function(payload73) return payload73 + (handler72 + "he
 		return function(queue77) return queue77 + (total62 + "escaped\ttab\nline\\slash") end
 	end
 else
-	local config78: number? = (string.format(`count {nil}, next {0x7689}`, 1_000_000i) // options41["quoted key"])
+	local config78: number? = (string.format(`count {nil}, next {0x7689}`, 1_000_000) // options41["quoted key"])
 end
 repeat
 	local function options79(queue80: unknown): number
@@ -190,9 +190,9 @@ local function config82(options83: (Alias21<string>) | (number)): number
 	if function(handler84) return handler84 + (buffer8 < nil) end <= (entry58) then
 		index61.entry63 "literal argument"
 	end
-	for buffer85 = 1, (6384i) do
+	for buffer85 = 1, (6384) do
 		type Alias86 = any
-		cache9 = (((result69 <= 1_000_000i)) ~= ((false) < queue74))
+		cache9 = (((result69 <= 1_000_000)) ~= ((false) < queue74))
 	end
 	return options17:clone<<unknown>>(), (([==[leveled ]] bracket]==]) :: (Alias31) | (Alias31))
 end
@@ -235,10 +235,10 @@ local function options111<T>(state112: any?): number
 	for handler113, widget114 in next, options2, nil do
 		print [[long-bracket argument]]
 		repeat
-			if not (handler72:clone(1_000_000i)) then
+			if not (handler72:clone(1_000_000)) then
 				setmetatable(false)
 				index43[ ("uni\u{48}escape" + false) ] = ((("skip\z   joined")))
-			elseif not (7431i) then
+			elseif not (7431) then
 				local cache115, node116 = options41((handler34))
 			end
 			if 7e3 then break end
@@ -270,7 +270,7 @@ for service124, service125 in ipairs(handler34) do
 			end
 			local function state133<T>(options134: typeof(config45), ...): number
 				cache120(function(result135) return result135 + options2:clone<<"singleton">>() end)
-				return 1_000_000i
+				return 1_000_000
 			end
 		end
 	end
@@ -300,7 +300,7 @@ local function node138(total139: Alias21<string>, ...): number
 		end
 		if (#false) then
 			const service148 = function(payload149) return payload149 + (true > buffer144) end
-		elseif not (((1_000_000i) :: typeof(config64))) then
+		elseif not (((1_000_000) :: typeof(config64))) then
 			while ((true and false)) and ({ ["bracket key"] = 26.5e-1, [ service125 ] = "uni\u{48}escape", [ true ] = true }) do
 				local index150: { true } = "escaped\ttab\nline\\slash"
 				Widget5.new(((0x5C12) * (nil + 'plain single')))
@@ -322,11 +322,11 @@ repeat
 	if (76.24 and true) then break end
 until ((#false)) and ((count126 and 2.3))
 config64.nested.slot = handler72.field
-local entry156 = ((cache117 ^ (30.5e-3 / result137)) < 1755i)
+local entry156 = ((cache117 ^ (30.5e-3 / result137)) < 1755)
 local node157, cache158 = pcall((entry58 or 82.98))
-local function handler159<T>(count160: (integer) & (boolean)): number
+local function handler159<T>(count160: (number) & (boolean)): number
 	Widget5.new "literal argument"
-	return node136, (0x313Ai % "uni\u{48}escape")
+	return node136, (0x313A % "uni\u{48}escape")
 end
 return { exported = options79, build = function() return function(index161) return index161 + 0x7521 end end }
 end

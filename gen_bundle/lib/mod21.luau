@@ -27,7 +27,7 @@ end
 function Widget5:update(service8)
 	self.size = self.size + service8 -- trailing comment
 	type((true / ("dec\101scape")), cache7["quoted key"])
-	payload6:insert((if (1_000_000 + payload6) >= 0b1111101i then (service8) else ("escaped\ttab\nline\\slash")))
+	payload6:insert((if (1_000_000 + payload6) >= 0b1111101 then (service8) else ("escaped\ttab\nline\\slash")))
 	return self.size, false
 end
 
@@ -77,7 +77,7 @@ local service33 = function(...) return select("#", ...), (#widget9) end;
 local service35: nil = ([[long bracket string]] == (not (-widget9)))
 repeat
 	local buffer36 = nil
-	local count37 = print { { ["bracket key"] = setmetatable<<integer>>(nil), } }
+	local count37 = print { { ["bracket key"] = setmetatable<<number>>(nil), } }
 	continue
 until ...
 for total38, index39 in pairs(state15) do
@@ -103,7 +103,7 @@ string.format(function(handler53) return handler53 + (#nil) end)
 local total54: () -> () = (...)
 if (true - true) then
 	for total55, entry56 in ipairs(widget27) do
-		select(count49:clone(9838i))
+		select(count49:clone(9838))
 		if not ((false // widget27)) then break end
 	end
 	type Alias57 = nil
@@ -120,12 +120,12 @@ for entry58 = 1, widget9, 2 do
 	end
 end
 queue60.nested.slot = { ["bracket key"] = (service35 > state15["quoted key"]); [ [[long bracket string]] ] = entry31.nested.deep.chain }
-total21 = Widget5.new({}, (table.insert { nil } > entry12:clone<<integer>>()))
+total21 = Widget5.new({}, (table.insert { nil } > entry12:clone<<number>>()))
 local widget65 = node2.nested.deep.chain
 for state66 = 1, true do
 	cache59:render(((94 .. [[long bracket string]]) == { [ false ] = "skip\z   joined"; label = false; ["bracket key"] = count19 }))
 	local count67 = nil
-	if (4211i + config13) == (nil and "skip\z   joined") then break end
+	if (4211 + config13) == (nil and "skip\z   joined") then break end
 	continue
 end
 config17 { tag = "item", { payload6, label = false, label = true } }
@@ -177,8 +177,8 @@ if not (state66.field) then
 	type Alias88<T> = { value: T, tail: string? }
 	for config89 = 1, (false) do
 		do
-			while 0x157Ci do
-				table.insert(..., 1_000_000i)
+			while 0x157C do
+				table.insert(..., 1_000_000)
 				if ({}) and ((87)) then break end
 			end
 		end
@@ -188,7 +188,7 @@ if not (state66.field) then
 				return (setmetatable("escaped\ttab\nline\\slash", handler29) - total54)
 			end
 			options25:update(({}))
-			return ((if not (result24.nested.deep.chain) then "plain double" elseif not (result24.nested.deep.chain) then 0x3752i else state45) or function(...) return select("#", ...), (#[==[leveled ]] bracket]==]) end)
+			return ((if not (result24.nested.deep.chain) then "plain double" elseif not (result24.nested.deep.chain) then 0x3752 else state45) or function(...) return select("#", ...), (#[==[leveled ]] bracket]==]) end)
 		end
 	end
 elseif ((service42 and state66)) and (function(result95) return result95 + (true < false) end) then
@@ -217,7 +217,7 @@ for config110 = 1, type(payload106, true) do
 	local payload111: (true) & (never) = ({ label = (-result24); ["bracket key"] = queue60; ["bracket key"] = (not index39); widget65 })
 end
 while not ((if not (46.12) then 9e2 else nil)) do
-	local entry112 = (if true > true then (-("escaped\ttab\nline\\slash" <= payload106)) else (#service35:clone<<integer>>()))
+	local entry112 = (if true > true then (-("escaped\ttab\nline\\slash" <= payload106)) else (#service35:clone<<number>>()))
 end
 local config113: never = (function(index114) return index114 + (false < 9e3) end .. nil)
 buffer36[ (false % options91) ] = ...
@@ -225,7 +225,7 @@ local function handler115(config116: string, ...): number
 	math.floor "literal argument"
 	return (... == ([[long bracket string]]))
 end
-payload6[ tostring(0b110101i, true) ] += `count {5e2}, next {5e4}`
+payload6[ tostring(0b110101, true) ] += `count {5e2}, next {5e4}`
 total74 { tag = "item", (handler80 == entry16) }
 math.max((function(...) return select("#", ...), (#entry112) end - (6806)))
 widget98(nil, function(...) return select("#", ...), function(buffer119) return buffer119 + ("escaped\ttab\nline\\slash") end end)

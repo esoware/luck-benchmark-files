@@ -25,11 +25,11 @@ function Widget5.new(service6: number?, ...)
 	elseif not (...) then
 		do
 			if not (...) then
-				if (1_000_000 // 0b1010101i) then
+				if (1_000_000 // 0b1010101) then
 					math.max { tag = "item", "hex\x41escape" }
 					tostring(select(buffer2, { label = nil, label = 39, [ buffer2 ] = 0b10100, label = widget8 }), (if widget8 then buffer2 else queue1))
 				end
-			elseif ((7667i + true)) and (function(index9) return index9 + (0b1001110 >= true) end) then
+			elseif ((7667 + true)) and (function(index9) return index9 + (0b1001110 >= true) end) then
 				for cache10 = 1, service6, 2 do
 					setmetatable((#(-0b1001011)))
 				end
@@ -60,20 +60,20 @@ local node16, node17 = select((#0b1000011))
 local entry18, config19 = table.insert("plain double")
 local buffer20, count21 = setmetatable(function(total22) return total22 + setmetatable { 0b10111 } end)
 table.insert((-(true == buffer2)), ([[long bracket string]] >= buffer2))
-local cache23: (typeof(state7)) | ((Alias3<string>) & (integer)) = (#(... and (index9 == total14)))
+local cache23: (typeof(state7)) | ((Alias3<string>) & (number)) = (#(... and (index9 == total14)))
 const queue24 = 0xF041;
-math.floor(((4772i and widget13)))
+math.floor(((4772 and widget13)))
 queue1.field *= buffer2:clone((widget13))
 for node25, state26 in pairs(entry11) do
 	local buffer27: typeof(count21) = 9e4
 end
-local total28: (string?) | (integer?) = ({ (1_000_000i or nil), nil, ["bracket key"] = (true), label = false } < queue24:clone<<"singleton">>());
-local node29: integer? = (0b10110101);
+local total28: (string?) | (number?) = ({ (1_000_000 or nil), nil, ["bracket key"] = (true), label = false } < queue24:clone<<"singleton">>());
+local node29: number? = (0b10110101);
 select { tag = "item", { ["bracket key"] = true, label = "uni\u{48}escape", [ 63 ] = "escaped\ttab\nline\\slash" } }
 service6.field /= Widget5[ (state7 .. 0b10111100) ]
 for options30, queue31 in pairs(buffer2) do
-	if (function(options32) return options32 + ipairs("hex\x41escape") end) and ((585i - nil)) then
-		queue1.nested.slot //= ((592i // node17) ^ { [ false ] = buffer27, [ nil ] = buffer27, label = false, true })
+	if (function(options32) return options32 + ipairs("hex\x41escape") end) and ((585 - nil)) then
+		queue1.nested.slot //= ((592 // node17) ^ { [ false ] = buffer27, [ nil ] = buffer27, label = false, true })
 		ipairs(true, node16)
 	end
 end
@@ -89,10 +89,10 @@ for cache34, count35 in pairs(options32) do
 end
 node29.nested.slot *= (buffer20 == buffer27:clone(nil))
 count35.nested.slot, total14.field = (#buffer20), function(service36) return service36 + tonumber(options30) end
-local queue37: { label: { label: boolean, [string]: any }, [string]: number } = { ({ label = buffer2; [ nil ] = cache34; false }), label = total28[ nil ], state26, ["bracket key"] = (("uni\u{48}escape") ~= ([==[leveled ]] bracket]==] <= 1_000_000i)) }
+local queue37: { label: { label: boolean, [string]: any }, [string]: number } = { ({ label = buffer2; [ nil ] = cache34; false }), label = total28[ nil ], state26, ["bracket key"] = (("uni\u{48}escape") ~= ([==[leveled ]] bracket]==] <= 1_000_000)) }
 Widget5.new "literal argument"
 export type Alias38 = typeof(total22)
-node17:resize({ (buffer12); (1_000_000i ~= nil); ["bracket key"] = (buffer12) })
+node17:resize({ (buffer12); (1_000_000 ~= nil); ["bracket key"] = (buffer12) })
 entry18[ state26.field ] = ...
 local function widget39(result40: typeof(widget39)): number
 	local options41, queue42 = tostring(math.max("escaped\ttab\nline\\slash", node25))
@@ -131,15 +131,15 @@ do
 	end
 	math.max "literal argument"
 end
-if (0b10110100i - true) then
-	local service65 = (#{ ["bracket key"] = 1_000_000i, label = ("escaped\ttab\nline\\slash" % 78.69), ["bracket key"] = (options32 and true), config63(29.5e-3), })
+if (0b10110100 - true) then
+	local service65 = (#{ ["bracket key"] = 1_000_000, label = ("escaped\ttab\nline\\slash" % 78.69), ["bracket key"] = (options32 and true), config63(29.5e-3), })
 elseif not ((15.5e-1 % total47)) then
 	type Alias66<T> = { value: T, tail: thread? }
 else
 	local function entry67(queue68: any?): number
 		if not ((-total14)) then
 			if ((total14)) and (buffer12[ true ]) then
-				const handler69 = 0b10010000i
+				const handler69 = 0b10010000
 				const queue70 = true
 			else
 				local cache71, node72 = setmetatable((queue70 * options41))
@@ -147,7 +147,7 @@ else
 			local state73 = (([==[leveled ]] bracket]==] ^ (nil <= "escaped\ttab\nline\\slash")) and ((node29) >= {}))
 		end
 		if function(payload74) return payload74 + function(node75) return node75 + { [ [==[leveled ]] bracket]==] ] = false } end end <= node25.field then
-			local buffer76 = (1_000_000i == [==[leveled ]] bracket]==]);
+			local buffer76 = (1_000_000 == [==[leveled ]] bracket]==]);
 			setmetatable { tag = "item", Widget5.new<<any>>("plain double") }
 		end
 		return Widget5.new((#[[long bracket string]]), ("uni\u{48}escape")), print<<string>>(buffer20)
@@ -155,9 +155,9 @@ else
 end
 pcall { tag = "item", { nil; [ nil ] = nil } }
 local widget77 = ...
-local widget78 = ((0xEFAC <= options46) * { label = (0b1100101 and 0x7B66), label = Widget5.new { widget39 }, [ false ] = (if entry67(1_000_000i, true) then true else 4622i), [ 0x32BBi ] = payload74 })
+local widget78 = ((0xEFAC <= options46) * { label = (0b1100101 and 0x7B66), label = Widget5.new { widget39 }, [ false ] = (if entry67(1_000_000, true) then true else 4622), [ 0x32BB ] = payload74 })
 do
-	for cache79 = 1, (-0xA9F3i) do
+	for cache79 = 1, (-0xA9F3) do
 		local index80 = ((#entry67(true, widget39)) == ...)
 		local handler81, queue82 = string.format(...)
 	end
@@ -167,7 +167,7 @@ entry67 { tag = "item", true }
 handler59:render((#cache10:clone<<nil>>()))
 local options83 = select(({ 0b1111111; [ true ] = "dec\101scape"; false; ["bracket key"] = [==[leveled ]] bracket]==] } <= (total47 <= true)))
 table.insert { tag = "item", ... }
-local state84 = (if ((true + 8258)) and ({ [ service36 ] = "dec\101scape", }) then { [ cache79 ] = function(...) return select("#", ...), (state73 / total47) end; [ 1_000_000i ] = (queue24 % "dec\101scape"); (#true) } else buffer20.field)
+local state84 = (if ((true + 8258)) and ({ [ service36 ] = "dec\101scape", }) then { [ cache79 ] = function(...) return select("#", ...), (state73 / total47) end; [ 1_000_000 ] = (queue24 % "dec\101scape"); (#true) } else buffer20.field)
 local queue86, widget87 = math.max(queue1.nested.deep.chain)
 while not (...) do
 	if (false and total47) then
@@ -187,7 +187,7 @@ while not (...) do
 	end
 end
 if widget87:clone<<Alias4<string>>>() == { [ node29 ] = payload74, label = node17 } then
-	local index99: integer? = `count {0b1000111}, next {nil}`
+	local index99: number? = `count {0b1000111}, next {nil}`
 	local payload100 = 0b10001010
 end
 if config19 then

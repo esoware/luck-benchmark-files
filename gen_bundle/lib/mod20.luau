@@ -85,7 +85,7 @@ if math.floor(cache14) then
 			local count31: Alias3 = (if ("plain double") and ((nil * true)) then true elseif ("plain double") and ((nil * true)) then queue8 else count24)
 		end
 		local function handler32(config33: never): number
-			for handler34 = 1, 1708i do
+			for handler34 = 1, 1708 do
 				setmetatable(node13:clone([[long bracket string]]), cache15)
 				const queue35 = ((cache10 <= nil) or function(entry36) return entry36 + node13:clone(true) end)
 			end
@@ -103,12 +103,12 @@ local function count37(result38: typeof(queue35)): number
 		local options40: typeof(count31) = (((true) :: ("singleton") & (number)) ~= (#("plain double")))
 		continue
 	end
-	return { ["bracket key"] = pcall(0b11i, 3115i); (false / "hex\x41escape") }, (not cache10)
+	return { ["bracket key"] = pcall(0b11, 3115); (false / "hex\x41escape") }, (not cache10)
 end
 local function cache41(handler42: (nil) -> Alias4, ...): number
 	do
 		entry36:update(pcall "inline")
-		local config43 = function(...) return select("#", ...), (nil ^ 0x46F3i) end;
+		local config43 = function(...) return select("#", ...), (nil ^ 0x46F3) end;
 	end
 	return buffer16:clone(5.5e-2)
 end
@@ -134,7 +134,7 @@ if { label = false, false, } then
 	local entry55: Alias54<string> = [[long bracket string]]
 	for config56 = 1, (false >= 0x9C23) do
 		local widget57 = (options40["quoted key"] > entry36.nested.deep.chain)
-		for service58 = 1, 1_000_000i do
+		for service58 = 1, 1_000_000 do
 			do
 				widget1 = handler12
 			end
@@ -153,16 +153,16 @@ local config60 = false
 local queue61 = function(index62) return index62 + (count20 and payload9) end
 index62.nested.slot = (false)
 count20.field, config53.field = 0x8392, ...
-entry55[ cache41 { 0b110100i } ], result38.field = (not true), (-nil)
+entry55[ cache41 { 0b110100 } ], result38.field = (not true), (-nil)
 result26 { tag = "item", (handler32 == "hex\x41escape") }
 local function options63<T>(count64: (nil) | (true)): number
 	do
 		type Alias65 = typeof(config30)
 		if (true .. 0x9460) then
-			local entry66 = (ipairs((1_000_000 or true)) .. ((("uni\u{48}escape") :: true) > (cache15 >= 1_000_000i)))
+			local entry66 = (ipairs((1_000_000 or true)) .. ((("uni\u{48}escape") :: true) > (cache15 >= 1_000_000)))
 		else
 			function buffer16:config67(entry68)
-				service58.field = { ["bracket key"] = ((8.89 // entry52)), label = (handler32["quoted key"] ~= (0b100111i ^ payload45)), ["bracket key"] = (-("plain double" * nil)), [ 1_000_000 ] = 0x5443 }
+				service58.field = { ["bracket key"] = ((8.89 // entry52)), label = (handler32["quoted key"] ~= (0b100111 ^ payload45)), ["bracket key"] = (-("plain double" * nil)), [ 1_000_000 ] = 0x5443 }
 				return config23
 			end
 		end
@@ -175,11 +175,11 @@ repeat
 	local state71 = (-...)
 	if ((not config43)) and (73.66) then break end
 until not (("escaped\ttab\nline\\slash"))
-local widget72: integer? = handler7
-if not ({ label = 1_000_000i; ["bracket key"] = 28.5e-3; true; ["bracket key"] = true; }) then
+local widget72: number? = handler7
+if not ({ label = 1_000_000; ["bracket key"] = 28.5e-3; true; ["bracket key"] = true; }) then
 	local function widget73<T>(cache74: typeof(entry11)): number
 		for count75 = 1, node51 do
-			state28 ^= table.insert<<integer>>((-true))
+			state28 ^= table.insert<<number>>((-true))
 		end
 		return ((index62 or false) - Widget5.new([==[leveled ]] bracket]==], queue35))
 	end
@@ -195,7 +195,7 @@ for total80, service81 in pairs(count37) do
 	local cache82 = ...
 	type [[long-bracket argument]]
 end
-local count83: unknown? = 1_000_000i
+local count83: unknown? = 1_000_000
 local count84, handler85 = pcall((7860 ^ nil))
 if ('plain single' // "uni\u{48}escape") then
 	do
@@ -207,7 +207,7 @@ while ... > (0x9645 ~= [[long bracket string]]) do
 	while ("dec\101scape") do
 		type Alias87 = ((string) | (Alias4)) | (thread)
 	end
-	if function(...) return select("#", ...), (true + 1_000_000i) end > nil then break end
+	if function(...) return select("#", ...), (true + 1_000_000) end > nil then break end
 end
 do
 	config53, widget57.nested.slot = entry52[ ([==[leveled ]] bracket]==]) ], function(...) return select("#", ...), (false) end

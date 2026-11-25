@@ -23,18 +23,18 @@ function Widget5.new(entry6: number?, ...)
 	local total7: typeof(entry6) = ...
 	local function payload8(entry9: { label: never, [string]: "singleton" }, ...): number
 		for entry10, queue11 in ipairs(queue11) do
-			local result12 = (count1:clone((0b110110i >= entry9)) <= (#string.format(nil)))
+			local result12 = (count1:clone((0b110110 >= entry9)) <= (#string.format(nil)))
 			local cache13, count14 = setmetatable(cache13)
 			if (if (result2 // cache13) then nil else true) then break end
 		end
 		for buffer15 = 1, 7083, 2 do
 			for entry16, widget17 in pairs(total7) do
-				if "plain double" == (if ('plain single') and (`count {0b10110110i}, next {"hex\x41escape"}`) then payload8 elseif ('plain single') and (`count {0b10110110i}, next {"hex\x41escape"}`) then 'plain single' else true) then
-					payload8[ 1_000_000i ] = [[long bracket string]]
+				if "plain double" == (if ('plain single') and (`count {0b10110110}, next {"hex\x41escape"}`) then payload8 elseif ('plain single') and (`count {0b10110110}, next {"hex\x41escape"}`) then 'plain single' else true) then
+					payload8[ 1_000_000 ] = [[long bracket string]]
 				else
 					pcall "literal argument"
 				end
-				if function(...) return select("#", ...), ("uni\u{48}escape" ~= entry10) end ~= (result2 ^ 1_000_000i) then break end
+				if function(...) return select("#", ...), ("uni\u{48}escape" ~= entry10) end ~= (result2 ^ 1_000_000) then break end
 			end
 		end
 		return result12
@@ -49,7 +49,7 @@ function Widget5:resize(index19)
 		do
 			local total22: typeof(result2) = true
 		end
-		type Alias23<T> = { value: T, tail: { label: { label: integer, [string]: Alias3 }, [string]: any } }
+		type Alias23<T> = { value: T, tail: { label: { label: number, [string]: Alias3 }, [string]: any } }
 	elseif not (count1) then
 		do
 			if (entry6) and (function(result24) return result24 + 'plain single' end) then
@@ -99,11 +99,11 @@ end
 local buffer44: ({ label: number, [string]: boolean }) | ((true, ...true) -> (nil)) = (({ [ cache35 ] = result30, [ false ] = result24, buffer36 }) == cache25 { "skip\z   joined" })
 type(node27:clone<<boolean>>())
 handler29:resize(...)
-if not (tostring<<unknown>>(1_000_000i)) then
+if not (tostring<<unknown>>(1_000_000)) then
 	entry9.nested.slot ..= tonumber((0xFB2C < 33.19), (false))
 	result2[ (6e4 and "escaped\ttab\nline\\slash") ] //= (cache42:clone(false) or (options38 .. count14))
 end
-if ((1_000_000i)) and ((-[[long bracket string]])) then
+if ((1_000_000)) and ((-[[long bracket string]])) then
 	local handler45 = { [ 2e0 ] = (#count32["quoted key"]), (... / ...), [ payload39 ] = string.format<<unknown>>(nil), [ buffer37 ] = function(...) return select("#", ...), ... end }
 	local payload47 = {}
 elseif not ((-options34)) then
@@ -164,7 +164,7 @@ handler52, entry10.field = false, "skip\z   joined"
 queue48((function(result85) return result85 + 36.5e-1 end < options38["quoted key"]), true)
 repeat
 	while setmetatable { true } do
-		local entry86: { label: typeof(result30), [string]: integer } = ((handler52 < config61.field))
+		local entry86: { label: typeof(result30), [string]: number } = ((handler52 < config61.field))
 		continue
 	end
 	continue

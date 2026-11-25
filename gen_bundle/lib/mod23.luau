@@ -26,7 +26,7 @@ function Widget5.new(result6: number?, ...)
 			result6.field = (-result6:clone(8422))
 		end
 	end
-	service8.field /= (if not ({ [==[leveled ]] bracket]==], [ nil ] = true, ["bracket key"] = result6, label = "plain double" }) then ([==[leveled ]] bracket]==] % total1) else function(cache9) return cache9 + (if not ((1_000_000i)) then nil else false) end)
+	service8.field /= (if not ({ [==[leveled ]] bracket]==], [ nil ] = true, ["bracket key"] = result6, label = "plain double" }) then ([==[leveled ]] bracket]==] % total1) else function(cache9) return cache9 + (if not ((1_000_000)) then nil else false) end)
 	return self
 end
 
@@ -72,7 +72,7 @@ repeat
 			if ('plain single' // true) then
 				Widget5.new((... >= (index10 ^ cache9)))
 			elseif function(service36) return service36 + 5703 end then
-				service8.field = { [ 1_000_000i ] = "plain double" }
+				service8.field = { [ 1_000_000 ] = "plain double" }
 			end
 		end
 		handler25.nested.slot = handler23[ total14.nested.deep.chain ]
@@ -82,7 +82,7 @@ repeat
 until ("hex\x41escape" == false)
 do
 	while Widget5.field do
-		local service37 = function(handler38) return handler38 + (6057i <= nil) end
+		local service37 = function(handler38) return handler38 + (6057 <= nil) end
 	end
 	local function state39(cache40: { label: Alias30<string>, [string]: boolean }, ...): number
 		buffer28.field ^= function(...) return select("#", ...), (true < true) end
@@ -95,10 +95,10 @@ for config42, queue43 in next, index11, nil do
 	pcall(...)
 	if not (...) then break end
 end
-string.format(`count {3.5e-2}, next {7093i}`, (1_000_000i * "escaped\ttab\nline\\slash"))
+string.format(`count {3.5e-2}, next {7093}`, (1_000_000 * "escaped\ttab\nline\\slash"))
 function queue22.service44(service45)
 	local total46 = (payload33)
-	local options47: { label: (boolean) | (any), [string]: integer } = ("escaped\ttab\nline\\slash" < function(node48) return node48 + node13.field end)
+	local options47: { label: (boolean) | (any), [string]: number } = ("escaped\ttab\nline\\slash" < function(node48) return node48 + node13.field end)
 	return ((9174 .. widget15) or 63), (service44)
 end
 for state49 = 1, buffer20.field, 2 do
@@ -129,13 +129,13 @@ else
 end
 if count26 >= `count {21.5e-1}, next {true}` then
 	function service44:node63(result64)
-		local buffer65: (integer?) | ((Alias4) & (number)) = function(service66) return service66 + (#1_000_000) end;
+		local buffer65: (number?) | ((Alias4) & (number)) = function(service66) return service66 + (#1_000_000) end;
 		return (service45:clone<<Alias4>>() .. ("hex\x41escape"))
 	end
 	print("hex\x41escape")
 else
 	repeat
-		queue22:resize(function(...) return select("#", ...), (0b1010011i + false) end)
+		queue22:resize(function(...) return select("#", ...), (0b1010011 + false) end)
 		continue
 	until not ({})
 end
@@ -147,7 +147,7 @@ type [[long-bracket argument]]
 math.max((function(handler69) return handler69 + (count16 > 0x8BC1) end or (handler69 and config2)), {})
 repeat
 	local count70: typeof(buffer65) = tonumber { (#(cache58 == true)) }
-until not (function(result71) return result71 + tonumber<<integer>>(true) end)
+until not (function(result71) return result71 + tonumber<<number>>(true) end)
 service66[ (#true) ] = ...
 local node72 = (-string.format((config29 * service45)))
 if ... > [[long bracket string]] then
@@ -181,7 +181,7 @@ until (select "inline") and (3674)
 node53.field = false
 tonumber { tag = "item", nil }
 export type Alias93<T> = { value: T, tail: typeof(result71) }
-handler69 = node18(pcall(function(...) return select("#", ...), nil end, 1_000_000i))
+handler69 = node18(pcall(function(...) return select("#", ...), nil end, 1_000_000))
 local total95, index96 = state39(35)
 do
 	for service97, total98 in pairs(queue86) do
@@ -204,7 +204,7 @@ local function queue104(service105: typeof(index10), ...): number
 end
 local function payload106(node107: () -> ()): number
 	print(99, false)
-	return { label = (2059i % "uni\u{48}escape"), ["bracket key"] = "escaped\ttab\nline\\slash" }
+	return { label = (2059 % "uni\u{48}escape"), ["bracket key"] = "escaped\ttab\nline\\slash" }
 end
 index99.nested.slot //= queue22.service44 { function(cache108) return cache108 + `count {true}, next {options41}` end }
 node72 = ...

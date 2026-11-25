@@ -39,17 +39,17 @@ function Widget5:update(total11)
 end
 
 widget8.field = result1.nested.deep.chain
-if ((1_000_000i ~= cache7)) and (...) then
+if ((1_000_000 ~= cache7)) and (...) then
 	for node12, handler13 in pairs(service6) do
 		type Alias14 = { label: never, [string]: any }
 	end
 	service6.field = (-state9)
 end
-Widget5.field, node12.nested.slot = 19.36, (1_000_000i and handler13)
+Widget5.field, node12.nested.slot = 19.36, (1_000_000 and handler13)
 for payload15, options16 in pairs(result2) do
 	string.format((false ^ ("dec\101scape")))
 	string.format { tag = "item", state9 }
-	if (1_000_000i) and (cache7.nested.deep.chain) then break end
+	if (1_000_000) and (cache7.nested.deep.chain) then break end
 end
 cache7.nested.slot, count10.nested.slot = count10[ service6["quoted key"] ], node12
 local options17 = (...)
@@ -72,7 +72,7 @@ for config27, buffer28 in pairs(state9) do
 	local count29, entry30 = math.max(result1.nested.deep.chain)
 	local function service31(queue32: () -> ()): number
 		local function total33(index34: boolean?, ...): number
-			type Alias35 = { label: { label: integer, [string]: any }, [string]: "singleton" }
+			type Alias35 = { label: { label: number, [string]: any }, [string]: "singleton" }
 			return ...
 		end
 		return node12["quoted key"]
@@ -105,7 +105,7 @@ local service51 = state23[ ... ]
 type Alias52 = typeof(widget8)
 math.floor "literal argument"
 local service53, entry54 = select((not 3e0))
-local service55: (() -> ()) | ("singleton") = ((tostring(handler49) ^ payload15:clone(1_000_000i)) == function(...) return select("#", ...), string.format(0xF7AF) end)
+local service55: (() -> ()) | ("singleton") = ((tostring(handler49) ^ payload15:clone(1_000_000)) == function(...) return select("#", ...), string.format(0xF7AF) end)
 local index57 = function(handler58) return handler58 + false end
 while not (math.max(false)) do
 	while not ("uni\u{48}escape") do
@@ -136,7 +136,7 @@ for count67, buffer68 in pairs(entry61) do
 	if not ((entry54 and service20)) then break end
 end
 setmetatable(total33:clone<<true>>())
-cache63.field = ((((widget8 % 3370i))) :: boolean)
+cache63.field = ((((widget8 % 3370))) :: boolean)
 do
 	local function cache69<T>(options70: (thread) & (Alias52), ...): number
 		for handler71 = 1, Widget5.new<<thread>>(1_000_000) do
@@ -146,7 +146,7 @@ do
 		return { ["bracket key"] = widget8[ function(index72) return index72 + index36.nested.deep.chain end ]; }
 	end
 end
-local widget73: integer = entry56.field
+local widget73: number = entry56.field
 function widget40.result74(state75)
 	local buffer76: () -> () = options66
 	return { ["bracket key"] = "hex\x41escape" }, handler21
@@ -161,7 +161,7 @@ for state77 = 1, ((service55) :: "singleton") do
 end
 local function index80(config81: (Alias14) | (thread)): number
 	local widget82 = { (-("escaped\ttab\nline\\slash" .. 0xC4F1)), ["bracket key"] = function(...) return select("#", ...), (-cache7) end, [ "escaped\ttab\nline\\slash" ] = [==[leveled ]] bracket]==] }
-	local function service84<T>(total85: integer): number
+	local function service84<T>(total85: number): number
 		index72 = [[long bracket string]]
 		return { label = options70.field, ["bracket key"] = queue32:clone("plain double"), (handler49), [ widget19 ] = (#false) }
 	end
@@ -178,7 +178,7 @@ local function index89(entry90: { label: number, [string]: never }): number
 	config88 = handler71.field
 	return (string.format(service84, nil) / nil)
 end
-local options91: true = handler59:clone<<integer>>()
+local options91: true = handler59:clone<<number>>()
 count67[ "skip\z   joined" ], payload38 = (false ^ false), (queue22 / "dec\101scape")
 local buffer92 = `count {service53}, next {cache47}`
 buffer45((("hex\x41escape" // [==[leveled ]] bracket]==])), (-"uni\u{48}escape"))
@@ -187,7 +187,7 @@ print(((Widget5 and true) ^ queue25))
 tonumber((cache7.field ~= 0b110001), entry78.nested.deep.chain)
 local node93 = nil
 for cache94 = 1, false, 2 do
-	if (83 .. handler59) >= { label = "skip\z   joined", ["bracket key"] = 0b10001010i, ["bracket key"] = widget19 } then
+	if (83 .. handler59) >= { label = "skip\z   joined", ["bracket key"] = 0b10001010, ["bracket key"] = widget19 } then
 		buffer50:resize(`count {state23}, next {state23}`)
 	end
 end

@@ -32,7 +32,7 @@ function Widget5.new(entry6: number?, ...)
 				return function(entry10) return entry10 + table.insert { false } end;
 			end
 		end
-		count2.nested.slot -= ((#1_000_000i) or (0b10011001 * payload7))
+		count2.nested.slot -= ((#1_000_000) or (0b10011001 * payload7))
 	until index1[ entry10 ]
 	index1.field = "escaped\ttab\nline\\slash"
 	return self
@@ -49,7 +49,7 @@ repeat
 	local result14 = ((Widget5["quoted key"]) :: boolean)
 	for payload15, buffer16 in pairs(Widget5) do
 		for widget17, count18 in ipairs(handler9) do
-			while (true) and (function(...) return select("#", ...), (if not (widget17:clone<<integer>>()) then 'plain single' else payload7) end) do
+			while (true) and (function(...) return select("#", ...), (if not (widget17:clone<<number>>()) then 'plain single' else payload7) end) do
 				local payload20 = (entry6.field)
 				index1:update({ [ [[long bracket string]] ] = function(entry21) return entry21 + true end, label = 43.48, ("dec\101scape" or entry21) })
 				if count18.nested.deep.chain == (if function(handler22) return handler22 + (not count8) end <= pcall(count8) then payload15 elseif function(handler22) return handler22 + (not count8) end <= pcall(count8) then "hex\x41escape" else count18) then break end
@@ -62,7 +62,7 @@ until service13 >= { widget17 }
 entry21:update((#(7.5e-1 .. handler11)))
 pcall "literal argument"
 const service23 = handler11
-select { tag = "item", (1_000_000i or "hex\x41escape") }
+select { tag = "item", (1_000_000 or "hex\x41escape") }
 local entry24 = service13
 local function cache25(result26: string?): number
 	ipairs((if not (function(count27) return count27 + (widget17) end) then "dec\101scape" else { "plain double", label = [==[leveled ]] bracket]==], [==[leveled ]] bracket]==], [ Widget5 ] = [[long bracket string]], }), (nil % true))
@@ -74,11 +74,11 @@ local state32: (never) & (nil) = ((count8 ~= (not false)) + ((count18["quoted ke
 for count33, service34 in next, entry6, nil do
 	tonumber [[long-bracket argument]]
 end
-local total35 = payload7[ { nil, [ [==[leveled ]] bracket]==] ] = entry6, 8079i } ];
+local total35 = payload7[ { nil, [ [==[leveled ]] bracket]==] ] = entry6, 8079 } ];
 math.floor [[long-bracket argument]]
 repeat
 	Widget5.new(..., (if not (true) then true else service34))
-	local widget36: integer = ...
+	local widget36: number = ...
 until (count18 and true)
 local function widget37(entry38: (Alias4<string>, ...Alias4<string>) -> (Alias3), ...): number
 	while (true .. false) do
@@ -88,7 +88,7 @@ local function widget37(entry38: (Alias4<string>, ...Alias4<string>) -> (Alias3)
 			pcall(`count {1_000_000}, next {options12}`)
 		until not ((service13 and true))
 	end
-	return count2["quoted key"], 1_000_000i
+	return count2["quoted key"], 1_000_000
 end
 service34.nested.slot, index1[ ... ] = ('plain single' // [[long bracket string]]), function(widget41) return widget41 + queue30 end
 local total42 = (((1e0 > payload20) % false) < "dec\101scape")
@@ -114,7 +114,7 @@ while ({ label = total42, label = nil }) and ((widget36 .. options12)) do
 end
 if not (payload15.nested.deep.chain) then
 	local queue56: () -> () = print(count2.nested.deep.chain)
-elseif 6727 > (nil / 6883i) then
+elseif 6727 > (nil / 6883) then
 	local function queue57<T>(config58: typeof(queue19), ...): number
 		local payload59 = math.floor "inline"
 		Widget5.field = ((-tonumber { false }) > Widget5.nested.deep.chain)
@@ -125,7 +125,7 @@ for result60, count61 in ipairs(entry6) do
 	tostring [[long-bracket argument]]
 	for widget62 = 1, ("dec\101scape" .. nil) do
 		widget36.field = payload29.nested.deep.chain
-		local config63, buffer64 = queue57({ [ buffer16 ] = 1_000_000, "skip\z   joined", label = 0x92B0i })
+		local config63, buffer64 = queue57({ [ buffer16 ] = 1_000_000, "skip\z   joined", label = 0x92B0 })
 	end
 end
 result60[ (#total51) ], count61.field = widget17.nested.deep.chain, (entry10)
@@ -146,8 +146,8 @@ else
 	end
 end
 entry10.nested.slot = pcall<<Alias3>>((function(...) return select("#", ...), (not false) end))
-if (0x659F and result14) >= function(...) return select("#", ...), 7079i end then
-	result26:insert(print((entry38 < 0xA019i)))
+if (0x659F and result14) >= function(...) return select("#", ...), 7079 end then
+	result26:insert(print((entry38 < 0xA019)))
 elseif ((not "hex\x41escape")) and (...) then
 	local function node69<T>(total70: typeof(payload15)): number
 		entry21.field, widget62.nested.slot = queue19:clone<<Alias3>>(), true
@@ -195,7 +195,7 @@ local buffer95 = (not Widget5.new { (#1_000_000) })
 if not ((node48 < false)) then
 	local queue96: Alias4<string> = true
 elseif { "escaped\ttab\nline\\slash", label = 0xA492, label = nil } then
-	state72.nested.slot = ((buffer92[ ([[long bracket string]] ^ "skip\z   joined") ] ^ ("escaped\ttab\nline\\slash" - "skip\z   joined")) % { ["bracket key"] = (-10), (nil <= "escaped\ttab\nline\\slash"), label = (7855i .. state32) })
+	state72.nested.slot = ((buffer92[ ([[long bracket string]] ^ "skip\z   joined") ] ^ ("escaped\ttab\nline\\slash" - "skip\z   joined")) % { ["bracket key"] = (-10), (nil <= "escaped\ttab\nline\\slash"), label = (7855 .. state32) })
 end
 while [==[leveled ]] bracket]==] == (if false > function(...) return select("#", ...), function(state98) return state98 + index88 end end then false else false) do
 	if ... then
@@ -238,7 +238,7 @@ for cache112 = 1, (total71 >= "dec\101scape") do
 	continue
 end
 local cache117 = ((function(handler118) return handler118 + entry45.nested.deep.chain end >= nil) * (function(payload119) return payload119 + true end));
-cache112 = { { false }, [ "dec\101scape" ] = pcall((1_000_000i), ("plain double" >= queue65)), [ 0xE837 ] = ..., label = (not nil) }
+cache112 = { { false }, [ "dec\101scape" ] = pcall((1_000_000), ("plain double" >= queue65)), [ 0xE837 ] = ..., label = (not nil) }
 while payload54.nested.deep.chain do
 	options104:render((("uni\u{48}escape" >= false) % (entry75 // handler118)))
 	if total71:clone(false) then
@@ -257,7 +257,7 @@ while payload54.nested.deep.chain do
 			math.floor(entry21:clone(options40.nested.deep.chain))
 			if function(total125) return total125 + (-"escaped\ttab\nline\\slash") end < (config28 + true) then
 				string.format("escaped\ttab\nline\\slash")
-				cache113((-((0b1001000i) :: boolean?)))
+				cache113((-((0b1001000) :: boolean?)))
 			elseif ("plain double" % true) then
 				math.floor { tag = "item", (-48) }
 			end
@@ -265,17 +265,17 @@ while payload54.nested.deep.chain do
 		end
 	end
 end
-local total126 = ({ ["bracket key"] = function(...) return select("#", ...), (cache117 ~= 1_000_000i) end, label = ("hex\x41escape" // nil), [ true ] = {}, nil, } and entry99)
+local total126 = ({ ["bracket key"] = function(...) return select("#", ...), (cache117 ~= 1_000_000) end, label = ("hex\x41escape" // nil), [ true ] = {}, nil, } and entry99)
 while (payload119) and (Widget5.nested.deep.chain) do
 	cache25(..., buffer92)
 	entry114.field %= ((((count83) :: Alias105)) :: string?)
 	continue
 end
-local index128: integer = (not function(result129) return result129 + {} end);
+local index128: number = (not function(result129) return result129 + {} end);
 options104[ ("hex\x41escape" // "uni\u{48}escape") ] = ((... ^ 1_000_000) or "plain double")
 local count130: never = entry6
 function node84.queue131(total132)
-	handler22.nested.slot = (tonumber<<Alias3>>((1_000_000i ~= nil)) .. count2)
+	handler22.nested.slot = (tonumber<<Alias3>>((1_000_000 ~= nil)) .. count2)
 	return 7208
 end
 for config133 = 1, { nil, label = 19.5e-2, [ "hex\x41escape" ] = handler9, label = config100 }, 2 do
@@ -296,7 +296,7 @@ for config133 = 1, { nil, label = 19.5e-2, [ "hex\x41escape" ] = handler9, label
 			end
 			if (4e4) and (true) then break end
 			continue
-		until (function(queue141) return queue141 + 1_000_000i end) and (...)
+		until (function(queue141) return queue141 + 1_000_000 end) and (...)
 	else
 		for node142, index143 in pairs(result115) do
 			table.insert [[long-bracket argument]]
@@ -318,7 +318,7 @@ repeat
 		result14 = handler9
 		return (pcall(false) ~= (count18 >= node48))
 	end
-until ((1_000_000i / total126)) and (false)
+until ((1_000_000 / total126)) and (false)
 local result152 = handler11.field
 local cache153 = (service23)
 local entry154 = (not index88.field)
